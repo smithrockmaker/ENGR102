@@ -1,0 +1,1 @@
+This folder holds various materials relevant to the 3D printer portions of this class
