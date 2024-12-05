@@ -21,17 +21,21 @@ As opposed to an actual CAD class (CIS 135S1) this course seeks to introduce CAD
 
 **Topic:** Creating sketches (cross sections), Deconstructing objects into potential sketches, using constraints
 
+Lines, arcs, circles, constraints, symmetry, and dimensions.
+
 **Outcomes:** Generate a number of sketches using basic tools and constraints. 
 
 **Class:** Presentation of tools
 
-**Lab:** Execution of first exercises, exploration of additional exercises or take them home.
+**Lab:** Execution of first exercises, exploration of additional exercises or take them home. Visualizing cross sections
 
 **Unresolved:** How best to assure students are doing their own work? Encourage sharing of insights but also personal practice.
 
 ### Week 3:
 
 **Topic:** 
+
+Extrusions and revolutions: 
 
 **Outcomes:** 
 
@@ -41,9 +45,13 @@ As opposed to an actual CAD class (CIS 135S1) this course seeks to introduce CAD
 
 **Unresolved:** 
 
+[shop drawings](https://www.youtube.com/watch?v=GUDhet2TKHQ)
+
 ### Week 4:
 
 **Topic:** 
+
+Shop drawings/ Establish volume of design (for 3D printing)
 
 **Outcomes:** 
 
@@ -57,6 +65,8 @@ As opposed to an actual CAD class (CIS 135S1) this course seeks to introduce CAD
 
 **Topic:** 
 
+Generating stl and gcode
+
 **Outcomes:** 
 
 **Class:** 
@@ -68,6 +78,8 @@ As opposed to an actual CAD class (CIS 135S1) this course seeks to introduce CAD
 ### Week 6:
 
 **Topic:** 
+
+Catch up week
 
 **Outcomes:** 
 
@@ -81,6 +93,8 @@ As opposed to an actual CAD class (CIS 135S1) this course seeks to introduce CAD
 
 **Topic:** 
 
+Design project I
+
 **Outcomes:** 
 
 **Class:** 
@@ -92,6 +106,8 @@ As opposed to an actual CAD class (CIS 135S1) this course seeks to introduce CAD
 ### Week 8:
 
 **Topic:** 
+
+Design Project II
 
 **Outcomes:** 
 
@@ -105,6 +121,8 @@ As opposed to an actual CAD class (CIS 135S1) this course seeks to introduce CAD
 
 **Topic:** 
 
+Design Documentation and reportt
+
 **Outcomes:** 
 
 **Class:** 
@@ -117,6 +135,8 @@ As opposed to an actual CAD class (CIS 135S1) this course seeks to introduce CAD
 
 **Topic:** 
 
+Project Presentations
+
 **Outcomes:** 
 
 **Class:** 
@@ -125,7 +145,7 @@ As opposed to an actual CAD class (CIS 135S1) this course seeks to introduce CAD
 
 **Unresolved:** 
 
-### Week 10*:
+### Week 11*: Not this year!!
 
 **Topic:** 
 

@@ -5,13 +5,18 @@
 
 To the extent possible I hope to focus on group exercises with limited passive presentation. This is always an aspiration since the enormous volumes of information tempt me to talk way too much. Be warned!!
 
-**Class:** 2 hours a week with the entire group (up to 48 students but probably less) SCI 190.
+**Class:** 
 
-**Lab:** 3 hours a week in SCI 250 with access to laptops and instrument room. My thought at this time is to structure activities so three groups have access to the 3D printers for 60 min (roughly) and then another 3 groups have access to the printers (we only have 3). This would suggest groups of up to 4 (24 students) if the lab section is full. When not working with printers focus will be CAD or design activities.
+2 hours a week with the entire group (up to 48 students but probably less) SCI 190.
+
+**Lab:** 
+
+3 hours a week in SCI 250 with access to laptops and instrument room. My thought at this time is to structure activities so three groups have access to the 3D printers for 60 min (roughly) and then another 3 groups have access to the printers (we only have 3). This would suggest groups of up to 4 (24 students) if the lab section is full. When not working with printers focus will be CAD or design activities.
 
 ### Week 1:
 
 **Topic:** 
+
 
 **Outcomes:** 
 
