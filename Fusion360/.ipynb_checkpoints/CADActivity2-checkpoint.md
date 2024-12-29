@@ -2,7 +2,7 @@
 
 ### Notes from Day 2
 
-[Day 2](https://www.youtube.com/watch?v=DfAfxae8aRc&list=PLrZ2zKOtC_-C4rWfapgngoe9o2-ng8ZBr&index=4)
+[Day 2](https://www.youtube.com/watch?v=DfAfxae8aRc&list=PLrZ2zKOtC_-C4rWfapgngoe9o2-ng8ZBr&index=3)
 
 Overall a little smoother each time I dive into Fusion. I did download the image from Kevin's webpage to follow along with what he does.
 
