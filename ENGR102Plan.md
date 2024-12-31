@@ -50,15 +50,27 @@ There are a large number of digital resources to keep track of for this course. 
 
 **CAD Learning**
 
-Day 1 from Kevin. This is a quick start to understanding how to work in Fusion 360. Be sure and follow along and create your own version of the design. We will be using this elsewhere in the course soon. 13 min
+Day 1 from Kevin: This is a quick start to understanding how to work in Fusion 360. Be sure and follow along and create your own version of the design. We will be using this elsewhere in the course soon. 13 min
 [Learn Fusion 360 in 30 Days: Day 1](https://www.youtube.com/watch?v=d3qGQ2utl2A&list=PLrZ2zKOtC_-C4rWfapgngoe9o2-ng8ZBr&index=2)
 
-Different approach but also gets you many skills in short order. Be aware that he is using an older version of Fusion 360 so the tools and menus look a little different. That is intentional on my part and good practice for you. 20 min
+Part I from Lars: Different approach but also gets you many skills in short order. Be aware that he is using an older version of Fusion 360 so the tools and menus look a little different. That is intentional on my part and good practice for you. 20 min
 [Fusion 360 for Absolute Beginners: Part 1](https://www.youtube.com/watch?v=A5bc9c3S12g&list=PL40d7srwyc_Ow4aaOGXlP2idPGwD7ruKg)
+
+**CAD Deliverables**
+
+None for this week. Getting everything up and running as well as going through the first lessons will lead to next weeks deliverables.
 
 **Lab: 3D Print**  
 
 Anatomy of 3D printer. Print some simple objects.
+
+**Lab Deliverables**
+
+* Worksheets for printer anatomy
+
+* Demonstrate to instructor (as group) the tasks on the Skills Sheet
+
+* Submit a question or meaningful observation about printing process from lab
 
 **Unresolved:** 
 
@@ -80,10 +92,10 @@ Anatomy of 3D printer. Print some simple objects.
 
 **CAD Learning**
 
-Day 2 from Kevin. Extruding by revolving is useful as well as working with images and splined curves.  12 min
+Day 2 from Kevin: Extruding by revolving is useful as well as working with images and splined curves.  12 min
 [Learn Fusion 360 in 30 Days: Day 2](https://www.youtube.com/watch?v=DfAfxae8aRc&list=PLrZ2zKOtC_-C4rWfapgngoe9o2-ng8ZBr&index=3)
 
-Continuing with the conduit box. 19 min
+Part 2 from Lars: Continuing with the conduit box. 19 min
 [Fusion 360 for Absolute Beginners: Part 2](https://www.youtube.com/watch?v=HXRMzJWo0-Q&t=2s)
 
 **CAD Deliverables**
@@ -110,10 +122,10 @@ Print various test objects and analyze
 
 Even though we don't have class on Monday there is plenty of time to stay on track with developing your Fusion skills.
 
-Day 3 from Kevin. Cool to learn about sweeping. 
+Day 3 from Kevin: Cool to learn about sweeping. 
 [Learn Fusion 360 in 30 Days: Day 3](https://www.youtube.com/watch?v=DfAfxae8aRc&list=PLrZ2zKOtC_-C4rWfapgngoe9o2-ng8ZBr&index=3)
 
-Finishing the Conduit Box: (part 3). Feels good to finish the box. Adding the screws is irritating. Don't get stuck on that part as it is not high value at this moment.
+Part 3 from Lars: Finishing the Conduit Box: (part 3). Feels good to finish the box. Adding the screws is irritating. Don't get stuck on that part as it is not high value at this moment.
 [Fusion 360 for Absolute Beginners: Part 3](https://www.youtube.com/watch?v=zS8dYA_Iluc)
 
 **Lab: 3D Print**  

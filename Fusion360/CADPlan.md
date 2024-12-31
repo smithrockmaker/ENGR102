@@ -3,13 +3,15 @@
 
 ### Instructional Model: 
 
-As opposed to an actual CAD class (CIS 135S1) this course seeks to introduce CAD tools in the context of engineering design and fabrication. The focus here will be basic skills combined with finding and learning new tools as they are suggested by the projects. Fusion360 (Autodesk) will be the tool of choice though students with experience with other packages AND access to software adapt the exercises.
+As opposed to an actual CAD class ([CIS 135S1](https://catalog.cocc.edu/course-outlines/cis-135s1/) or [ENGR248](https://ecampus.oregonstate.edu/soc/ecatalog/ecoursedetail.htm?subject=ENGR&coursenumber=248)) this course seeks to introduce CAD tools in the context of engineering design and fabrication. The focus here will be basic skills combined with finding and learning new tools as they are suggested by the projects. Fusion360 (Autodesk) will be the tool of choice though students with experience with other packages AND access to software may adapt the exercises.
 
 ### Week 1:
 
 **Topic:** Overview of CAD tools, setting up Fusion360 account, download client on personal computers. 
 
-**Outcomes:** Verify access to Fusion360 or equivalent tool by end of week.
+**Outcomes:** 
+
+* Install Fusion360 client or equivalent on personal computer.
 
 **Class:** General discussion
 
