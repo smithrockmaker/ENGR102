@@ -6,9 +6,12 @@ Generally any worksheets that you need for lab will be provided at the lab. I ha
 
 ### Activity 1: 3D Printer Anatomy
 
-Using the resources presented in class to complete the Printer Anatomy worksheet.
+Using the resources presented in class to complete the [Printer Anatomy worksheet](https://github.com/smithrockmaker/ENGR102/blob/main/documents/Assessments/AnatomyQuiz.docx).
 
 ### Activity 2: Basic Printer Operations and Safety
 
-Follow the [3D Basic Skills Worksheet](). This will include printing a simple object
+Follow the [3D Basic Skills Worksheet](https://github.com/smithrockmaker/ENGR102/blob/main/3DPrinters/LabGuides/3DBasicSkillsWorksheet.docx). This will include printing a simple object
 
+### Activity 3: Reflection
+
+Submit a short paragraph reflecting on your observations of the printing process. If you find that you have any questions feel free to ask in this context. Consider commenting on the compliant structure in the print or print quality issues (strings, nubs, holes).

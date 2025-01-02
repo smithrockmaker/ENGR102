@@ -1,5 +1,5 @@
 ### Current Plan for CAD portion of ENGR 102
-### 10/23/24
+### 1/2/25
 
 ### Instructional Model: 
 
