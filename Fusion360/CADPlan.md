@@ -7,43 +7,57 @@ As opposed to an actual CAD class ([CIS 135S1](https://catalog.cocc.edu/course-o
 
 ### Week 1:
 
-**Topic:** Overview of CAD tools, setting up Fusion360 account, download client on personal computers. 
+**Topic:** 
 
-**Outcomes:** 
+Primary focus for this week is creating sketches that are the basis of 3D modeling.
 
-* Install Fusion360 client or equivalent on personal computer.
+**CAD Learning**
 
-**Class:** General discussion
+Day 1 from Kevin: This is a quick start to understanding how to work in Fusion 360. Be sure and follow along and create your own version of the design. We will be using this elsewhere in the course soon. 13 min
+[Learn Fusion 360 in 30 Days: Day 1](https://www.youtube.com/watch?v=d3qGQ2utl2A&list=PLrZ2zKOtC_-C4rWfapgngoe9o2-ng8ZBr&index=2)
 
-**Lab:** Solve account and client issues as possible.
+Part I from Lars: Different approach but also gets you many skills in short order. Be aware that he is using an older version of Fusion 360 so the tools and menus look a little different. That is intentional on my part and good practice for you. 20 min
+[Fusion 360 for Absolute Beginners: Part 1](https://www.youtube.com/watch?v=A5bc9c3S12g&list=PL40d7srwyc_Ow4aaOGXlP2idPGwD7ruKg)
+
+**CAD Deliverables**
+
+None for this week. Getting everything up and running as well as going through the first lessons will lead to next weeks deliverables.
 
 **Unresolved:** 
 
 ### Week 2:
 
-**Topic:** Creating sketches (cross sections), Deconstructing objects into potential sketches, using constraints
+**Topic**
 
-Lines, arcs, circles, constraints, symmetry, and dimensions.
+Primary focus for this week is working with extrusions with attention to parametric design.
 
-**Outcomes:** Generate a number of sketches using basic tools and constraints. 
+**CAD Learning**
 
-**Class:** Presentation of tools
+Day 2 from Kevin: Extruding by revolving is useful as well as working with images and splined curves.  12 min
+[Learn Fusion 360 in 30 Days: Day 2](https://www.youtube.com/watch?v=DfAfxae8aRc&list=PLrZ2zKOtC_-C4rWfapgngoe9o2-ng8ZBr&index=3)
 
-**Lab:** Execution of first exercises, exploration of additional exercises or take them home. Visualizing cross sections
+Part 2 from Lars: Continuing with the conduit box. 19 min
+[Fusion 360 for Absolute Beginners: Part 2](https://www.youtube.com/watch?v=HXRMzJWo0-Q&t=2s)
 
-**Unresolved:** How best to assure students are doing their own work? Encourage sharing of insights but also personal practice.
+**CAD Deliverables**
+
+Possible: Find a physical object with at least 3 distinct cross sections. Only one those cross sections may be a rectangle, circle, or square. In Fusion 360 create a separate sketch (in the same file) of each of the 3 cross sections. 
+
+**Unresolved:** 
+
+Still trying to sort out best practice for turning in or demonstrating Fusion skills.
 
 ### Week 3:
 
 **Topic:** 
 
-Extrusions and revolutions: 
+Patterning 
 
-**Outcomes:** 
+**CAD Learning**
 
-**Class:** 
 
-**Lab:** 
+**CAD Deliverables**
+
 
 **Unresolved:** 
 

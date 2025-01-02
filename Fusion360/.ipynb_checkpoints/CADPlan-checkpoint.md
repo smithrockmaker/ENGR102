@@ -3,47 +3,71 @@
 
 ### Instructional Model: 
 
-As opposed to an actual CAD class (CIS 135S1) this course seeks to introduce CAD tools in the context of engineering design and fabrication. The focus here will be basic skills combined with finding and learning new tools as they are suggested by the projects. Fusion360 (Autodesk) will be the tool of choice though students with experience with other packages AND access to software adapt the exercises.
+As opposed to an actual CAD class ([CIS 135S1](https://catalog.cocc.edu/course-outlines/cis-135s1/) or [ENGR248](https://ecampus.oregonstate.edu/soc/ecatalog/ecoursedetail.htm?subject=ENGR&coursenumber=248)) this course seeks to introduce CAD tools in the context of engineering design and fabrication. The focus here will be basic skills combined with finding and learning new tools as they are suggested by the projects. Fusion360 (Autodesk) will be the tool of choice though students with experience with other packages AND access to software may adapt the exercises.
 
 ### Week 1:
 
-**Topic:** Overview of CAD tools, setting up Fusion360 account, download client on personal computers. 
+**Topic:** 
 
-**Outcomes:** Verify access to Fusion360 or equivalent tool by end of week.
+Primary focus for this week is creating sketches that are the basis of 3D modeling.
 
-**Class:** General discussion
+**CAD Learning**
 
-**Lab:** Solve account and client issues as possible.
+Day 1 from Kevin: This is a quick start to understanding how to work in Fusion 360. Be sure and follow along and create your own version of the design. We will be using this elsewhere in the course soon. 13 min
+[Learn Fusion 360 in 30 Days: Day 1](https://www.youtube.com/watch?v=d3qGQ2utl2A&list=PLrZ2zKOtC_-C4rWfapgngoe9o2-ng8ZBr&index=2)
+
+Part I from Lars: Different approach but also gets you many skills in short order. Be aware that he is using an older version of Fusion 360 so the tools and menus look a little different. That is intentional on my part and good practice for you. 20 min
+[Fusion 360 for Absolute Beginners: Part 1](https://www.youtube.com/watch?v=A5bc9c3S12g&list=PL40d7srwyc_Ow4aaOGXlP2idPGwD7ruKg)
+
+**CAD Deliverables**
+
+None for this week. Getting everything up and running as well as going through the first lessons will lead to next weeks deliverables.
 
 **Unresolved:** 
 
 ### Week 2:
 
-**Topic:** Creating sketches (cross sections), Deconstructing objects into potential sketches, using constraints
+**Topic**
 
-**Outcomes:** Generate a number of sketches using basic tools and constraints. 
+Primary focus for this week is working with extrusions with attention to parametric design.
 
-**Class:** Presentation of tools
+**CAD Learning**
 
-**Lab:** Execution of first exercises, exploration of additional exercises or take them home.
+Day 2 from Kevin: Extruding by revolving is useful as well as working with images and splined curves.  12 min
+[Learn Fusion 360 in 30 Days: Day 2](https://www.youtube.com/watch?v=DfAfxae8aRc&list=PLrZ2zKOtC_-C4rWfapgngoe9o2-ng8ZBr&index=3)
 
-**Unresolved:** How best to assure students are doing their own work? Encourage sharing of insights but also personal practice.
+Part 2 from Lars: Continuing with the conduit box. 19 min
+[Fusion 360 for Absolute Beginners: Part 2](https://www.youtube.com/watch?v=HXRMzJWo0-Q&t=2s)
+
+**CAD Deliverables**
+
+Possible: Find a physical object with at least 3 distinct cross sections. Only one those cross sections may be a rectangle, circle, or square. In Fusion 360 create a separate sketch (in the same file) of each of the 3 cross sections. 
+
+**Unresolved:** 
+
+Still trying to sort out best practice for turning in or demonstrating Fusion skills.
 
 ### Week 3:
 
 **Topic:** 
 
-**Outcomes:** 
+Patterning 
 
-**Class:** 
+**CAD Learning**
 
-**Lab:** 
+
+**CAD Deliverables**
+
 
 **Unresolved:** 
+
+[shop drawings](https://www.youtube.com/watch?v=GUDhet2TKHQ)
 
 ### Week 4:
 
 **Topic:** 
+
+Shop drawings/ Establish volume of design (for 3D printing)
 
 **Outcomes:** 
 
@@ -57,6 +81,8 @@ As opposed to an actual CAD class (CIS 135S1) this course seeks to introduce CAD
 
 **Topic:** 
 
+Generating stl and gcode
+
 **Outcomes:** 
 
 **Class:** 
@@ -68,6 +94,8 @@ As opposed to an actual CAD class (CIS 135S1) this course seeks to introduce CAD
 ### Week 6:
 
 **Topic:** 
+
+Catch up week
 
 **Outcomes:** 
 
@@ -81,6 +109,8 @@ As opposed to an actual CAD class (CIS 135S1) this course seeks to introduce CAD
 
 **Topic:** 
 
+Design project I
+
 **Outcomes:** 
 
 **Class:** 
@@ -92,6 +122,8 @@ As opposed to an actual CAD class (CIS 135S1) this course seeks to introduce CAD
 ### Week 8:
 
 **Topic:** 
+
+Design Project II
 
 **Outcomes:** 
 
@@ -105,6 +137,8 @@ As opposed to an actual CAD class (CIS 135S1) this course seeks to introduce CAD
 
 **Topic:** 
 
+Design Documentation and reportt
+
 **Outcomes:** 
 
 **Class:** 
@@ -117,6 +151,8 @@ As opposed to an actual CAD class (CIS 135S1) this course seeks to introduce CAD
 
 **Topic:** 
 
+Project Presentations
+
 **Outcomes:** 
 
 **Class:** 
@@ -125,7 +161,7 @@ As opposed to an actual CAD class (CIS 135S1) this course seeks to introduce CAD
 
 **Unresolved:** 
 
-### Week 10*:
+### Week 11*: Not this year!!
 
 **Topic:** 
 

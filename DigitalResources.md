@@ -55,6 +55,8 @@ When you need to download the Prusa Slicer software: [Prusa Slicer](https://www.
 
 [Toothpaste Squeezer](https://www.thingiverse.com/thing:867811/files)
 
+[tweezers](https://www.thingiverse.com/thing:606074/files) scaled 50% in longitudinal direction only.
+
 [Muppet Labs](https://muppetlabs.co/3d_printing.html)
 
 [Rambo Board Schematics](https://github.com/ultimachine/RAMBo/blob/master/docs/RAMBoSchem.pdf)
