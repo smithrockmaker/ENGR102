@@ -9,6 +9,8 @@ My instructional choices have been influenced by the time we have available in t
 
 Finally, I am aware that in ENGR 213: Strength of Materials there is often a project exploring the application of the mathematical tools of the course to actual beam bending challenges. It is possible that 3D printing will be integrated into that engineering challenge at some point in the future.
 
+[PrusaSlicer Guide](https://github.com/smithrockmaker/ENGR102/blob/main/3DPrinters/PrusaSlicer.md): A reminder of the process for downloading Prusa Slicer which you will need for this course.
+
 ### Week 1:
 
 **Topic:** 

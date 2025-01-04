@@ -19,7 +19,7 @@ Just a note this first time. This is how I intend to keep track of the various r
 * Why Prusa Slicer?
 
 * How to get Prusa Slicer([PrusaSlicer](https://github.com/smithrockmaker/ENGR102/blob/main/3DPrinters/PrusaSlicer.md))
-
+  
 * More Questions? Sign add slips.
 
 
