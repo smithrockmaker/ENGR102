@@ -14,7 +14,7 @@ Just a note this first time. This is how I intend to keep track of the various r
 
 * Why Fusion 360?
 
-* How to get Fusion 360
+* How to get Fusion 360 ([FusionLicense](
 
 * Why Prusa Slicer?
 
