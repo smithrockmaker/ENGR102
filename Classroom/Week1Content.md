@@ -14,11 +14,11 @@ Just a note this first time. This is how I intend to keep track of the various r
 
 * Why Fusion 360?
 
-* How to get Fusion 360 ([FusionLicense](
+* How to get Fusion 360 ([FusionLicense](https://github.com/smithrockmaker/ENGR102/blob/main/Fusion360/FusionLicense.md))
 
 * Why Prusa Slicer?
 
-* How to get Prusa Slicer
+* How to get Prusa Slicer([PrusaSlicer](https://github.com/smithrockmaker/ENGR102/blob/main/3DPrinters/PrusaSlicer.md))
 
 * More Questions? Sign add slips.
 
