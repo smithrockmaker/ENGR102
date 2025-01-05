@@ -47,7 +47,7 @@ Part 2 from Lars: Continuing with the conduit box. 19 min
 
 **Unresolved:** 
 
-Still trying to sort out best practice for turning in or demonstrating Fusion skills. For now demonstrating those skill
+Still trying to sort out best practice for turning in or demonstrating Fusion skills. For now demonstrating those skillls directly to the instructor will be used.
 
 ### Week 3:
 
