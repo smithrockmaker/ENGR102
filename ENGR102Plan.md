@@ -78,9 +78,9 @@ Anatomy of 3D printer. Print some simple objects.
 
 **Class Topic(s):** 
 
-**Day 1:** Sketching/Cross Sections/Machine Drawing expectations
+**Day 1:** Sketching/Cross Sections/Machine Drawing expectations in the context of engineering
 
-**Day 2:** 
+**Day 2:** Class activity with Fusion sketches. Develop clear workflow understanding for Prusa Slicer creating .gcode from .stl file
 
 **Outcomes:** 
 
@@ -88,7 +88,7 @@ Anatomy of 3D printer. Print some simple objects.
 
 * Practice using basic CAD tools to create 3D objects
 
-* Demonstrate comfort with 3D printer by printing simple object
+* Demonstrate understanding of workflow by creating .gcode from .stl and printing.
 
 **CAD Learning**
 
@@ -100,11 +100,21 @@ Part 2 from Lars: Continuing with the conduit box. 19 min
 
 **CAD Deliverables**
 
-Find a physical object with at least 3 distinct cross sections. Only one those cross sections may be a rectangle, circle, or square. In Fusion 360 create a separate sketch (in the same file) of each of the 3 cross sections. 
+[Fusion Skills 1:](https://github.com/smithrockmaker/ENGR102/blob/main/Fusion360/Skills/Skills1.md) The skills assessment for this week is focused on creating and dimensioning sketches. [This checklist](https://github.com/smithrockmaker/ENGR102/blob/main/Fusion360/Checklists/FusionSkills1Checklist.docx) will verify successful demonstration of the skills to your instructor.
 
 **Lab: 3D Print** 
 
-Print various test objects and analyze
+Import provided .stl file to Prusa Slicer, scale the print, choose characteristics, export gcode and print. Observe and describe features of resulting print. Lab details in the [3DLab2](https://github.com/smithrockmaker/ENGR102/blob/main/3DPrinters/LabGuides/3DLab2.md) markdown file. Worksheets noted in this file will be provided at lab but are linked for reference.
+
+**Outcomes:** 
+
+* Import .stl file into slicer, scale, and position on build platform.
+
+* Define various features that affect the succes of a 3D print (brim, speed, filament, temperature)
+
+* Set print features that determine engineering charateristics (infill density, wall layers, layer thickness)
+
+* Export .gcode and print
 
 **Unresolved:** 
 
@@ -114,9 +124,15 @@ Print various test objects and analyze
 
 **Day 1:** Holiday today.
 
-**Day 2:** 
+**Day 2:** Class activity with Fusion extrusions. Generate machine drawings that meet documentation standards. 
 
 **Outcomes:** 
+
+* Demonstrate understanding of the basic extrusion process
+
+* Download and install software needed to participate in the course
+
+* Access and begin using learning tools for CAD
 
 **CAD Learning**
 
@@ -128,9 +144,13 @@ Day 3 from Kevin: Cool to learn about sweeping.
 Part 3 from Lars: Finishing the Conduit Box: (part 3). Feels good to finish the box. Adding the screws is irritating. Don't get stuck on that part as it is not high value at this moment.
 [Fusion 360 for Absolute Beginners: Part 3](https://www.youtube.com/watch?v=zS8dYA_Iluc)
 
+**CAD Deliverables**
+
+Create specified drawing with multiple extrusions along different axes.
+
 **Lab: 3D Print**  
 
-Print simple lego brick from your own CAD design and test for fit
+Print simple lego brick from your own CAD design (reiterating skills development with Prusa Slicer), evaluate print quality and test for fit. 
 
 **Unresolved:** 
 

@@ -47,6 +47,10 @@ While there are
 
 [File Export Format Discussion](https://www.jaycon.com/exporting-3d-files-stl-vs-obj-vs-iges-vs-step/)
 
+### Engineering Drawings
+
+[Creating Shop Drawings with Fusion](https://www.youtube.com/watch?v=GUDhet2TKHQ&t=1827s)
+
 ### 3D Printing Learning:
 
 When you need to download the Prusa Slicer software: [Prusa Slicer](https://www.prusa3d.com/page/prusaslicer_424/)

@@ -43,11 +43,11 @@ Part 2 from Lars: Continuing with the conduit box. 19 min
 
 **CAD Deliverables**
 
-Possible: Find a physical object with at least 3 distinct cross sections. Only one those cross sections may be a rectangle, circle, or square. In Fusion 360 create a separate sketch (in the same file) of each of the 3 cross sections. 
+[Fusion Skills 1:](https://github.com/smithrockmaker/ENGR102/blob/main/Fusion360/Skills/Skills1.md) The skills assessment for this week is focused on creating and dimensioning sketches. [This checklist](https://github.com/smithrockmaker/ENGR102/blob/main/Fusion360/Checklists/FusionSkills1Checklist.docx) will verify successful demonstration of the skills to your instructor.
 
 **Unresolved:** 
 
-Still trying to sort out best practice for turning in or demonstrating Fusion skills.
+Still trying to sort out best practice for turning in or demonstrating Fusion skills. For now demonstrating those skill
 
 ### Week 3:
 

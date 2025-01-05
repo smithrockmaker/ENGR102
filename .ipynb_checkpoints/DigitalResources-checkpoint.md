@@ -47,6 +47,10 @@ While there are
 
 [File Export Format Discussion](https://www.jaycon.com/exporting-3d-files-stl-vs-obj-vs-iges-vs-step/)
 
+### Engineering Drawings
+
+[Creating Shop Drawings with Fusion](https://www.youtube.com/watch?v=GUDhet2TKHQ&t=1827s)
+
 ### 3D Printing Learning:
 
 When you need to download the Prusa Slicer software: [Prusa Slicer](https://www.prusa3d.com/page/prusaslicer_424/)
@@ -54,6 +58,8 @@ When you need to download the Prusa Slicer software: [Prusa Slicer](https://www.
 [Beer crate battery holder](https://www.thingiverse.com/thing:6761838/files)
 
 [Toothpaste Squeezer](https://www.thingiverse.com/thing:867811/files)
+
+[tweezers](https://www.thingiverse.com/thing:606074/files) scaled 50% in longitudinal direction only.
 
 [Muppet Labs](https://muppetlabs.co/3d_printing.html)
 

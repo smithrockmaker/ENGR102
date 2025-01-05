@@ -12,6 +12,8 @@ Day 2 from Kevin: Extruding by revolving is useful as well as working with image
 Part 2 from Lars: Continuing with the conduit box. 19 min
 [Fusion 360 for Absolute Beginners: Part 2](https://www.youtube.com/watch?v=HXRMzJWo0-Q&t=2s)
 
+**[Bruce's Notes:](https://github.com/smithrockmaker/ENGR102/blob/main/Fusion360/Weekly/CADActivity2)**
+
 **CAD Deliverables**
 
-Possible: Find a physical object with at least 3 distinct cross sections. Only one those cross sections may be a rectangle, circle, or square. In Fusion 360 create a separate sketch (in the same file) of each of the 3 cross sections. 
+[Fusion Skills 1:](https://github.com/smithrockmaker/ENGR102/blob/main/Fusion360/Skills/Skills1.md) The skills assessment for this week is focused on creating and dimensioning sketches. [This checklist](https://github.com/smithrockmaker/ENGR102/blob/main/Fusion360/Checklists/FusionSkills1Checklist.docx) will verify successful demonstration of the skills to your instructor.

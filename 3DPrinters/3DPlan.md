@@ -31,7 +31,7 @@ Identify resources for both the Prusa MK3S printers we will be using and 3D prin
 
 **Lab:** 
 
-Explore printer anatomy, basic operational tasks, and print a simple object (hopefully with no errors:). Lab details in the [ENGR102Lab1]() markdown file.
+Explore printer anatomy, basic operational tasks, and print a simple object (hopefully with no errors:). Lab details in the [3DLab1](https://github.com/smithrockmaker/ENGR102/blob/main/3DPrinters/LabGuides/3DLab1.md) markdown file. Worksheets noted in this file will be provided at lab but are linked for reference.
 
 **Unresolved:** 
 
@@ -55,7 +55,7 @@ Explore Prusa Slicer as a specific example of slicers used across the industry. 
 
 **Lab:** 
 
-Import provided .stl file, choose characteristics, and print. Observe and describe features of resulting print.
+Import provided .stl file to Prusa Slicer, choose characteristics, and print. Observe and describe features of resulting print. Lab details in the [3DLab2](https://github.com/smithrockmaker/ENGR102/blob/main/3DPrinters/LabGuides/3DLab2.md) markdown file. Worksheets noted in this file will be provided at lab but are linked for reference.
 
 **Unresolved:** 
 
