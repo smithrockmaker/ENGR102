@@ -12,7 +12,7 @@ Day 2 from Kevin: Extruding by revolving is useful as well as working with image
 Part 2 from Lars: Continuing with the conduit box. 19 min
 [Fusion 360 for Absolute Beginners: Part 2](https://www.youtube.com/watch?v=HXRMzJWo0-Q&t=2s)
 
-**[Bruce's Notes:](https://github.com/smithrockmaker/ENGR102/blob/main/Fusion360/CADActivity2)**
+**[Bruce's Notes:](https://github.com/smithrockmaker/ENGR102/blob/main/Fusion360/Weekly/CADActivity2.md)**
 
 **CAD Deliverables**
 

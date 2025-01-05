@@ -12,7 +12,7 @@ Day 1 from Kevin: This is a quick start to understanding how to work in Fusion 3
 Part I from Lars: Different approach but also gets you many skills in short order. Be aware that he is using an older version of Fusion 360 so the tools and menus look a little different. That is intentional on my part and good practice for you. 20 min
 [Fusion 360 for Absolute Beginners: Part 1](https://www.youtube.com/watch?v=A5bc9c3S12g&list=PL40d7srwyc_Ow4aaOGXlP2idPGwD7ruKg)
 
-**[Bruce's Notes:](https://github.com/smithrockmaker/ENGR102/blob/main/Fusion360/CADActivity1)**
+**[Bruce's Notes:](https://github.com/smithrockmaker/ENGR102/blob/main/Fusion360/Weekly/CADActivity1.md)**
 
 **CAD Deliverables**
 
