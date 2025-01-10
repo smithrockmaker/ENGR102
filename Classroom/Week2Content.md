@@ -29,7 +29,7 @@ General plan is engineering documentation, extrusions for Fusion, and generating
 
 * A framework for why...
   
-<img src="../images/LantroWhyDocumentation.png" />
+<img src="../images/contentImages/LantroWhyDocumentation.png" />
 
 from [Lantro](https://www.lantrotech.com/)
 
@@ -39,7 +39,7 @@ Discuss context in which each mode might apply.
 
 Another persepctive from staff guidelines at a major university....
 
-<img src="../images/KarolinskaResearchDocWhy.jpg" />
+<img src="../images/contentImages/KarolinskaResearchDocWhy.jpg" />
 
 from [Karolinska Institute](https://ki.se/en)
 

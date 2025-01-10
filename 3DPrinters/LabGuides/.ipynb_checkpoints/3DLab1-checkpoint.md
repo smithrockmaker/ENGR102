@@ -14,4 +14,4 @@ Follow the [3D Basic Skills Worksheet](https://github.com/smithrockmaker/ENGR102
 
 ### Activity 3: Reflection
 
-Submit a short paragraph reflecting on your observations of the printing process. If you find that you have any questions feel free to ask in this context. Consider commenting on the compliant structure in the print or print quality issues (strings, nubs, holes).
+Submit a short paragraph (Canvas) reflecting on your observations of the printing process. If you find that you have any questions feel free to ask in this context. Consider commenting on the compliant structure in the print or print quality issues (strings, nubs, holes).

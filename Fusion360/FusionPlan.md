@@ -1,4 +1,4 @@
-### Current Plan for CAD portion of ENGR 102
+### Current Plan for Fusion/CAD portion of ENGR 102
 ### 1/2/25
 
 ### Instructional Model: 
