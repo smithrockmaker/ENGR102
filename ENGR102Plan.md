@@ -78,13 +78,13 @@ Anatomy of 3D printer. Print some simple objects.
 
 **Class Topic(s):** 
 
-**Day 1:** Sketching/Cross Sections/Machine Drawing expectations in the context of engineering
+**Day 1:** Documentation: Reasons and expectations in the context of engineering
 
 **Day 2:** Class activity with Fusion sketches. Develop clear workflow understanding for Prusa Slicer creating .gcode from .stl file
 
 **Outcomes:** 
 
-* Explain the role of engineering documentation in a successful workplace
+* Explore the role of engineering documentation in a successful workplace
 
 * Practice using basic CAD tools to create 3D objects
 

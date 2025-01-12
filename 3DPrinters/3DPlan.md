@@ -49,6 +49,8 @@ Introduce slicer (Prusa Slicer) in 3D printing process.
 
 * Set print features that determine engineering charateristics (infill density, wall layers, layer thickness)
 
+* Export .gcode and print
+
 **Class:** 
 
 Explore Prusa Slicer as a specific example of slicers used across the industry. Begin learning about the various control options for the print. Generate gcode for specific printer. Discuss what gcode might be different (firmware) for different printers.

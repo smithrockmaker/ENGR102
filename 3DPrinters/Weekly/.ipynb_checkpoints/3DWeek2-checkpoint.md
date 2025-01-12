@@ -2,22 +2,24 @@
 
 **Topic:** 
 
-Introduction to the 3D printer. 
+Introduce slicer (Prusa Slicer) in 3D printing process.
 
 **Outcomes:** 
 
-* Be able to identify important features of the 3D printer
+* Import .stl file into slicer and position on build platform
 
-* Execute basic operational tasks for printing
+* Define various features that affect the succes of a 3D print (brim, speed, filament, temperature)
 
-* Understand and implement the printing of a simple gcode file from an SD card.
+* Set print features that determine engineering charateristics (infill density, wall layers, layer thickness)
+
+* Export .gcode and print
 
 **Class:** 
 
-Identify resources for both the Prusa MK3S printers we will be using and 3D printers in general. Discuss relationship to other fabrication methods and introduce process flow for 3D printing.
+Explore Prusa Slicer as a specific example of slicers used across the industry. Begin learning about the various control options for the print. Generate gcode for specific printer. Discuss what gcode might be different (firmware) for different printers.
 
 **Lab:** 
 
-Explore printer anatomy, basic operational tasks, and print a simple object (hopefully with no errors:). Lab details in the [3DLab1](https://github.com/smithrockmaker/ENGR102/blob/main/3DPrinters/LabGuides/3DLab1.md) markdown file. Worksheets noted in this file will be provided at lab but are linked for reference.
+Import provided .stl file to Prusa Slicer, choose characteristics, and print. Observe and describe features of resulting print. Lab details in the [3DLab2](https://github.com/smithrockmaker/ENGR102/blob/main/3DPrinters/LabGuides/3DLab2.md) markdown file. Worksheets noted in this file will be provided at lab but are linked for reference.
 
-**Unresolved:** 
+**Unresolved:**
