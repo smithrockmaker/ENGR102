@@ -8,7 +8,7 @@ For the lab you will be working with [Another_Hollow_Cube.stl](https://github.co
 
 ### Activity 1: Intro to Prusa Slicer
 
-Using the resources presented in class to complete the [Prusa Slicer Intro](https://github.com/smithrockmaker/ENGR102/blob/main/documents/Assessments/PusaSlicerIntro.docx).
+Using the resources presented in class to complete the [Prusa Slicer Intro](https://github.com/smithrockmaker/ENGR102/blob/main/3DPrinters/LabGuides/worksheets/PrusaSlicerIntro.docx).
 
 ### Activity 2: Define Print Features: Performance Characteristics
 
@@ -24,7 +24,7 @@ Now that you have some sense of the options and settings in Prusa Slicer it's ti
 
 #### Activity 5: Print the "Hollow Cube" and Assess characteristics
 
-Revisit your lab from last week before printing to be sure you know what to expect. After that review print your "Hollow Cube" gcode file from the SD card. Use this [Print Assessment Worksheet]() to assesss the characteristics of the printed "Hollow Cube"
+Revisit your lab from last week before printing to be sure you know what to expect. After that review print your "Hollow Cube" gcode file from the SD card. Use this [Print Assessment Worksheet](https://github.com/smithrockmaker/ENGR102/blob/main/3DPrinters/LabGuides/worksheets/PrintAssessment.docx) to assesss the characteristics of the printed "Hollow Cube"
 
 ### Activity 6: Reflection
 
