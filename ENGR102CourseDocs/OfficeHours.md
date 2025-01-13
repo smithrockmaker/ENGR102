@@ -20,10 +20,8 @@ Here is my basic availability for Office Hours:
 
 I will generally arrive at the Science building between 1:30 and 2:00 on days when we have class. Between then and 3:00 I'll be pretty available.  I may or may not be sitting in my office (**MSC 278**) which is the part time mosh pit in the middle of the hallway. If I'm not in there check in the physics labs (MSC 240/250) or look in the 'skyboxes'. In the past students have said it is sometimes effective to listen for my voice which is apparently deep and obnoxious.
 
-**Students in Calc:** I will stay after class on Monday's to give you all an opportunity to get input and ask questions. 
-
-I will also typically be able to stay after class for a bit if you have questions then.
+**Students in Calc:** I will stay after class on Monday's to give you all an opportunity to get input and ask questions. On Wednesday we should have some time during lab at some point for more questions. Thanks for letting me know about the schedule conflict. 
 
 #### Zoom:
 
-Once the college gets me back in the system I will have a personal zoom meeting room which I will list here. I'm happy to work with you to set up a time for both of us to connect over zoom.
+Zoom suggests that my personal meeting room for this term is [https://cocc.zoom.us/j/8319469871](https://cocc.zoom.us/j/8319469871). We can certainly set up a meeting via email if other options for connecting don't work for you:)
