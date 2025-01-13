@@ -18,7 +18,9 @@ Here is my basic availability for Office Hours:
 
 #### M/W:
 
-I will generally be in the Science building by 1:30 on days when we have class. Between 1:30 and 3:00 I'll be pretty available.  I may or may not be sitting in my office (**MSC 278**) which is the part time mosh pit in the middle of the hallway. If I'm not in there check in the physics labs (MSC 240/250) or look in the 'skyboxes'. In the past students have said it is sometimes effective to listen for my voice which is apparently deep and obnoxious.
+I will generally arrive at the Science building between 1:30 and 2:00 on days when we have class. Between then and 3:00 I'll be pretty available.  I may or may not be sitting in my office (**MSC 278**) which is the part time mosh pit in the middle of the hallway. If I'm not in there check in the physics labs (MSC 240/250) or look in the 'skyboxes'. In the past students have said it is sometimes effective to listen for my voice which is apparently deep and obnoxious.
+
+**Students in Calc:** I will stay after class on Monday's to give you all an opportunity to get input and ask questions. 
 
 I will also typically be able to stay after class for a bit if you have questions then.
 
