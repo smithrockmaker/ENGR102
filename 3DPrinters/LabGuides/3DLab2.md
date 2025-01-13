@@ -4,6 +4,8 @@ This document is intended to describe the details of activities that will take p
 
 Generally any worksheets that you need for lab will be provided at the lab. I have linked the documents for any other potential users.
 
+For the lab you will be working with [Another_Hollow_Cube.stl](https://github.com/smithrockmaker/ENGR102/blob/main/3DPrinters/stlFiles/test/Another_Hollow_Cube.stl) as your model file.
+
 ### Activity 1: Intro to Prusa Slicer
 
 Using the resources presented in class to complete the [Prusa Slicer Intro](https://github.com/smithrockmaker/ENGR102/blob/main/documents/Assessments/PusaSlicerIntro.docx).
@@ -12,9 +14,9 @@ Using the resources presented in class to complete the [Prusa Slicer Intro](http
 
 Continue with previous worksheet to explore setting various performance characteristics of the print like brims, speed, filament, and temperatures. While there is certainly overlap between these characteristics and engineering characteristics these primarily affect how the printer operates.
 
-### Activity 3: Define Print Features: Engineering Characteristics
+### Activity 3: Scaling and Slicing
 
-Continue with previous worksheet to explore setting various engineering characteristics of the print like infill density, wall layers, and layer thickness. These are the sorts of print characteristics that primarily affect the strength of the object under various conditions and it's appearance. These characteristics can also affect print times.
+Continue with worksheet ot explore scaling and slicing the 
 
 ### Activity 4: Export gcode to SD card.
 
