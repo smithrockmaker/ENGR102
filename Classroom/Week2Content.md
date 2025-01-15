@@ -90,7 +90,18 @@ Mostly what sorts of sketches would you be using?
 
 (pull up Fusion and sketch a wonky quadrilateral) What makes this different than a square or a rectangle? How might I get there? Did I need to be uptight in the begining?
 
-* While some groups are working with the printers the rest of the groups will be exploring where everyone is at with creating sketches. (real time with Fusion on the board)
+We'll pick an object to discuss in groups and then attempt at the board.
+
+<img src="../images/FusionImages/ClassExercise.jpg" />
+
+<img src="../images/FusionImages/ClassExercise2.jpg" />
+
+<img src="../images/FusionImages/ClassExercise3.jpg" />
+
+
+### When we get to Lab:
+
+While some groups are working with the printers the rest of the groups will be exploring where everyone is at with creating sketches. (real time with Fusion on the board)
 
 ### Prusa Slicer Discussion/Lab Prep
 
