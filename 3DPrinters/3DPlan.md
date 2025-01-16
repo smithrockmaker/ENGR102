@@ -11,6 +11,14 @@ Finally, I am aware that in ENGR 213: Strength of Materials there is often a pro
 
 [PrusaSlicer Guide](https://github.com/smithrockmaker/ENGR102/blob/main/3DPrinters/PrusaSlicer.md): A reminder of the process for downloading Prusa Slicer which you will need for this course.
 
+### Formatting Requirements for SD cards on Prusa Printers
+
+A number of students purchase large volume SD cards (128 GB) but found that the printers were unable to read the cards. After some research it was discovered that the Prusa Printers can only read SD cards that are formatted as FAT32. The more common exFAT formatting can **NOT** be read by the printers. This is due to the hardware which drives the printer which is built around an Arduino processor. 
+
+[Prusa SD Card Formatting](https://help.prusa3d.com/article/sd-cards-and-usb-drives_112291)
+
+You can refer to the [PrusaPrinterSDFormat]() document for guidance on how to force FAT32 formatting on a larger card. If you go this route you are accepting personal responsibility for any adverse outcomes.
+
 ### Week 1:
 
 **Topic:** 
