@@ -8,13 +8,13 @@ Most sketches that you will need are likely to be very simple. Circles, rectangl
 
 Create a new component and label it Sketch1: Create a sketch matching the following image on one of the principle planes of your project.
 
-<img src="../../images/FusionAssess/Exercise1-1.jpg" />
+<img src="../../images/assessmentImages/Exercise1-1.jpg" />
 
 ### Task 2:
 
 Create a new component and label it Sketch2:Create a sketch matching the following image on a different principle plane of your project.
 
-<img src="../../images/FusionAssess/Exercise1-2.jpg" />
+<img src="../../images/assessmentImages/Exercise1-2.jpg" />
 
 ### Task 3:
 
