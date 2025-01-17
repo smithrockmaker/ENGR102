@@ -1,4 +1,4 @@
-## Fusion Skills Assessment
+## Fusion Skills Assessment: 1
 
 ### Sketching
 
@@ -28,6 +28,8 @@ Examine the object provided in class and choose a feature that would require a s
 
 Save your Fusion project to a local file named 'FusionSkills1(First name)(Last name)'. Insert your first and last name with first letters capitalized. Note that this should be a local file in case you need to submit it to your instructor.
 
+Take a screen shot of your desktop which should show all three sketches simultaneously. This is what you will turn into Canvas to verify your skills.
+
 ### Instructor Verification
 
-Each of the tasks above will be validated and initialed by your instructor in lab (or in another setting if needed). Use [this checklist](https://github.com/smithrockmaker/ENGR102/blob/main/Fusion360/Checklists/FusionSkills1Checklist.docx) to track those validations. When your checklist is complete physically turn it in to your instructor.
+Each of the tasks above will be validated and initialed by your instructor in lab (or in another setting if needed). Use [this checklist](https://github.com/smithrockmaker/ENGR102/blob/main/Fusion360/Skills/Checklists/FusionSkills1Checklist.docx) to track those validations. When your checklist is complete physically turn it in to your instructor.

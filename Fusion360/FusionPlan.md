@@ -43,7 +43,7 @@ Part 2 from Lars: Continuing with the conduit box. 19 min
 
 **CAD Deliverables**
 
-[Fusion Skills 1:](https://github.com/smithrockmaker/ENGR102/blob/main/Fusion360/Skills/Skills1.md) The skills assessment for this week is focused on creating and dimensioning sketches. [This checklist](https://github.com/smithrockmaker/ENGR102/blob/main/Fusion360/Checklists/FusionSkills1Checklist.docx) will verify successful demonstration of the skills to your instructor.
+[Fusion Skills 1:](https://github.com/smithrockmaker/ENGR102/blob/main/Fusion360/Skills/FusionSkills1.md) The skills assessment for this week is focused on creating and dimensioning sketches. [This checklist](https://github.com/smithrockmaker/ENGR102/blob/main/Fusion360/Skills/Checklists/FusionSkills1Checklist.docx) will verify successful demonstration of the skills to your instructor.
 
 **Unresolved:** 
 
