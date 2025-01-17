@@ -30,7 +30,7 @@ Save your Fusion project to a local file named 'FusionSkills1(First name)(Last n
 
 Take a screen shot of your desktop which should show all three sketches simultaneously. This is what you will turn into Canvas to verify your skills.
 
-You may find that Fusion is not showing all your sketches clearly. You may need to set the 'Object Visibility' on your desktop. Instructions [here]().
+You may find that Fusion is not showing all your sketches clearly. You may need to set the 'Object Visibility' on your desktop. Instructions [here](https://github.com/smithrockmaker/ENGR102/blob/main/Fusion360/Skills/SetObjectVisibility.md).
 
 ### Instructor Verification
 
