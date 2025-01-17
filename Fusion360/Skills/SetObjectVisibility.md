@@ -1,14 +1,14 @@
-## Fusion Skills Checklist
+## Setting Object Visibility
 
-### Sketching
+### Display Settings Menu
 
-### Task 1:
+**Step 1:** Go to the 'Display Settings' menu at the bottom of your desktop.
 
-Create a new component and label it Sketch1: Create a sketch matching the following image on one of the principle planes of your project.
+<img src="../../images/FusionImages/FusionDisplaySet.png" />
 
-### Task 2:
+**Step 2:** From the 'Object Visibility' menu make sure Sketches is checked.
 
-Create a new component and label it Sketch2:Create a sketch matching the following image on a different principle plane of your project.
+<img src="../../images/FusionImages/FusionVizO.png" />
 
 
 ### Task 3:

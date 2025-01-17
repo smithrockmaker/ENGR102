@@ -30,6 +30,8 @@ Save your Fusion project to a local file named 'FusionSkills1(First name)(Last n
 
 Take a screen shot of your desktop which should show all three sketches simultaneously. This is what you will turn into Canvas to verify your skills.
 
+You may find that Fusion is not showing all your sketches clearly. You may need to set the 'Object Visibility' on your desktop. Instructions [here]().
+
 ### Instructor Verification
 
 Each of the tasks above will be validated and initialed by your instructor in lab (or in another setting if needed). Use [this checklist](https://github.com/smithrockmaker/ENGR102/blob/main/Fusion360/Skills/Checklists/FusionSkills1Checklist.docx) to track those validations. When your checklist is complete physically turn it in to your instructor.
