@@ -32,4 +32,4 @@ Apply the specified fillets to one corner of the extrusion. You can do all the e
 
 ### Assessment Verification
 
-For this assessment taking a screen shot of your completed extrusion and submitting it to Canvas will be sufficient. Please refer to this [Fusion Screenshot Expectations]() document for guidance.
+For this assessment taking a screen shot of your completed extrusion and submitting it to Canvas will be sufficient. Please refer to this [Fusion Screenshot Expectations](https://github.com/smithrockmaker/ENGR102/blob/main/Fusion360/ScreenShotExpectations.md) document for guidance.

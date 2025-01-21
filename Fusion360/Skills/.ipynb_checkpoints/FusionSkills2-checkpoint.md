@@ -12,6 +12,8 @@ Here is the shop drawing from my Fusion file meant to recreate the extrusion...
 
 <img src="../../images/assessmentImages/AluminumExtrusionDrawing.png" />
 
+You can download this [image as a pdf here](https://github.com/smithrockmaker/ENGR102/blob/main/documents/Assessments/AluminumExtrusion1Drawing.pdf) and print it out if you wish.
+
 ### Task 1:
 
 Create a new component called AluminumExtrusion. Create a sketch on bottom plane and extrude it into a rectangular column consistent with the engineering drawing.
@@ -30,4 +32,4 @@ Apply the specified fillets to one corner of the extrusion. You can do all the e
 
 ### Assessment Verification
 
-For this assessment taking a screen shot of your completed extrusion and submitting it to Canvas will be sufficient. Please refer to this [Fusion Screenshot Expectations] document for guidance.
+For this assessment taking a screen shot of your completed extrusion and submitting it to Canvas will be sufficient. Please refer to this [Fusion Screenshot Expectations](https://github.com/smithrockmaker/ENGR102/blob/main/Fusion360/ScreenShotExpectations.md) document for guidance.
