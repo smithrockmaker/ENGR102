@@ -4,6 +4,8 @@
 
 ### Installing software (not apps)
 
+https://a360.co/40l8sy9
+
 **NOTE!!** It may be that you have never actually installed a piece of software on your computer. This is NOT quite the same as installing an app on your phone. If you have never done this before come and ask in class or visit the IT helpdesk in Pioneer Hall. Over the years I have seen some unexpected things happen when I assume that you know how to do this. 
 
 ### Fusion 360 Software:
@@ -12,15 +14,15 @@ Autodesk is a large company that makes a CAD product called, surprisingly, AutoC
 
 Start here at the [Autodesk Fusion Education webpage] which should look something like below.
 
-<img src="images/FusionEdLanding.png" width="400"/>
+<img src="images/softwareImages/FusionEdLanding.png" width="400"/>
 
 Choose the Student portal. Use your COCC email address which is what validates that you are a student.
 
-<img src="images/FusionEdEmail.png" width="400"/>
+<img src="images/softwareImages/FusionEdEmail.png" width="400"/>
 
 After that Autodesk will need some institutional information about COCC. You can pull what you need of the image below. Pick a graduation date like 06/27 well in the future.
 
-<img src="images/FusionEdInstitution.png" width="400"/>
+<img src="images/softwareImages/FusionEdInstitution.png" width="400"/>
 
 At this point it's hard for me to reproduce what your experience will be since I already have an account and the alternative email I gave them doesn't register as a COCC education address. You will be required to set up an Autodesk account which will be used to validate your Fusion software so use good digital hygiene in choosing and saving your password! 
 
@@ -28,7 +30,7 @@ Once you complete the process (which may require confirmation from your COCC ema
 
 If you are successful your Fusion desktop should look something like below when you open it. Note it will have your account name and the indication for the Education License.
 
-<img src="images/FusionDesktop.png" width="400"/>
+<img src="images/softwareImages/FusionDesktop.png" width="400"/>
 
 ### Slicer Software:
 

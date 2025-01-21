@@ -124,15 +124,15 @@ Import provided .stl file to Prusa Slicer, scale the print, choose characteristi
 
 **Day 1:** Holiday today.
 
-**Day 2:** Class activity with Fusion extrusions. Generate machine drawings that meet documentation standards. 
+**Day 2:** Class activity with Fusion extrusions. Discuss screenshot protocols for turning in. Generate machine/shop drawings that meet engineering standards. 
 
 **Outcomes:** 
 
-* Demonstrate understanding of the basic extrusion process
+* Demonstrate understanding of the basic extrusion process (Skills Assessment)
 
-* Download and install software needed to participate in the course
+* Effective communication of CAD process through screenshots
 
-* Access and begin using learning tools for CAD
+* Generate machine drawings from Fusion that meet engineering standards
 
 **CAD Learning**
 
@@ -146,11 +146,21 @@ Part 3 from Lars: Finishing the Conduit Box: (part 3). Feels good to finish the 
 
 **CAD Deliverables**
 
-Create specified drawing with multiple extrusions along different axes.
+Create specified Aluminum Extrusion to demonstrate extrusion and other skills
 
 **Lab: 3D Print**  
 
-Print simple lego brick from your own CAD design (reiterating skills development with Prusa Slicer), evaluate print quality and test for fit. 
+Print exposed infill to experience the different choices.
+
+**Outcomes:** 
+
+* Review skills from previous weeks
+
+* Adjust specific printer settings in Prusa Slicer to expose infill patterns
+
+* Examine and assess infill patterns relative to engineering characteristics (reference document)
+
+* https://help.prusa3d.com/article/infill-patterns_177130
 
 **Unresolved:** 
 
