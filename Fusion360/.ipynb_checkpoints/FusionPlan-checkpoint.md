@@ -1,4 +1,4 @@
-### Current Plan for CAD portion of ENGR 102
+### Current Plan for Fusion/CAD portion of ENGR 102
 ### 1/2/25
 
 ### Instructional Model: 
@@ -43,23 +43,32 @@ Part 2 from Lars: Continuing with the conduit box. 19 min
 
 **CAD Deliverables**
 
-Possible: Find a physical object with at least 3 distinct cross sections. Only one those cross sections may be a rectangle, circle, or square. In Fusion 360 create a separate sketch (in the same file) of each of the 3 cross sections. 
+[Fusion Skills 1:](https://github.com/smithrockmaker/ENGR102/blob/main/Fusion360/Skills/FusionSkills1.md) The skills assessment for this week is focused on creating and dimensioning sketches. [This checklist](https://github.com/smithrockmaker/ENGR102/blob/main/Fusion360/Skills/Checklists/FusionSkills1Checklist.docx) will verify successful demonstration of the skills to your instructor.
 
 **Unresolved:** 
 
-Still trying to sort out best practice for turning in or demonstrating Fusion skills.
+Still trying to sort out best practice for turning in or demonstrating Fusion skills. For now demonstrating those skillls directly to the instructor will be used.
 
 ### Week 3:
 
 **Topic:** 
 
-Patterning 
+Sweeping shapes is focus of Kevin's tutorial. Lars explores assembling multiple components (lid on box). 
 
 **CAD Learning**
 
+Even though we don't have class on Monday there is plenty of time to stay on track with developing your Fusion skills.
+
+Day 3 from Kevin: Cool to learn about sweeping. 
+[Learn Fusion 360 in 30 Days: Day 3](https://www.youtube.com/watch?v=DfAfxae8aRc&list=PLrZ2zKOtC_-C4rWfapgngoe9o2-ng8ZBr&index=3)
+
+Part 3 from Lars: Finishing the Conduit Box: (part 3). Feels good to finish the box. Adding the screws is irritating. Don't get stuck on that part as it is not high value at this moment.
+[Fusion 360 for Absolute Beginners: Part 3](https://www.youtube.com/watch?v=zS8dYA_Iluc)
 
 **CAD Deliverables**
 
+Create specified Aluminum Extrusion to demonstrate extrusion and other skills
+[Fusion Skills 2:](https://github.com/smithrockmaker/ENGR102/blob/main/Fusion360/Skills/FusionSkills2.md) The skills assessment for this week is focused on creating and dimensioning sketches. [This checklist](https://github.com/smithrockmaker/ENGR102/blob/main/Fusion360/Skills/Checklists/FusionSkills2Checklist.docx) will verify successful demonstration of the skills to your instructor.
 
 **Unresolved:** 
 

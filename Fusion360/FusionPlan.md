@@ -68,6 +68,7 @@ Part 3 from Lars: Finishing the Conduit Box: (part 3). Feels good to finish the 
 **CAD Deliverables**
 
 Create specified Aluminum Extrusion to demonstrate extrusion and other skills
+[Fusion Skills 2:](https://github.com/smithrockmaker/ENGR102/blob/main/Fusion360/Skills/FusionSkills2.md) The skills assessment for this week is focused on creating and dimensioning sketches. [This checklist](https://github.com/smithrockmaker/ENGR102/blob/main/Fusion360/Skills/Checklists/FusionSkills2Checklist.docx) will verify successful demonstration of the skills to your instructor.
 
 **Unresolved:** 
 
