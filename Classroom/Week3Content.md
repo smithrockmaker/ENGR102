@@ -1,4 +1,4 @@
-## Week 2 Content
+## Week 3 Content
 
 General plan is engineering documentation, extrusions for Fusion, and generating gcode from .stl files for lab.
 

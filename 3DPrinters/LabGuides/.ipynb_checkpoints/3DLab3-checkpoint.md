@@ -12,7 +12,7 @@ Using the resources presented in class to complete the [Prusa Slicer Intro](http
 
 ### Activity 2: Define Print Features: Layers and Perimeters
 
-To be able to see the actual infill pattern we have to eliminate the top layers of the print. At the same time you will explore changing the number of perimeter layers as well. Refer to [Week3Content]() for reminders of how to access and modify the menus. 
+To be able to see the actual infill pattern we have to eliminate the top layers of the print. At the same time you will explore changing the number of perimeter layers as well. Refer to [Week3Content](https://github.com/smithrockmaker/ENGR102/blob/main/Classroom/Week3Content.md) for reminders of how to access and modify the menus. 
 
 ### Activity 3: Choose Infill Patterns
 
@@ -25,5 +25,7 @@ Depending on details this should take about 30-45 min if you have been efficient
 ### Activity 5: Reflection
 
 Read Prusa's article about [infill patterns and their applications](https://help.prusa3d.com/article/infill-patterns_177130) Describe how your print experience validates or not the time and material assertions in the Prusa article. This assumes you have noted filament usage and well as print time for each of your prints. In addition discuss the three prints your group did with another group and see if your results are consistent with theirs.
+
+If you wish to look a litte further here is another discussion of the engineering characteristics that result from infill choices. It doesn't explore all of the Prusa possibilities but will give you a sense of the richness of this topic.
 
 
