@@ -1,37 +1,33 @@
-## Fusion Skills Assessment: 1
+## Fusion Skills Assessment: 
 
-### Sketching
+### Extruding
 
-Most sketches that you will need are likely to be very simple. Circles, rectangles, hexagons, etc. The following tasks ask you to explore some slightly more complex forms. Place each sketch on one of the principle planes of a Fusion project. No extruding or othe tasks are asked. Be sure you've used the dimension tool to define the relevant dimensions.
+Your task for this Skills Assessment is to create the aluminum extrusion illustrated below.
+
+This is the image of a typical extruded aluminum bar that I found.
+
+<img src="../../images/assessmentImages/AluminumExtrusion1.jpg" />
+
+Here is the shop drawing from my Fusion file meant to recreate the extrusion...
+
+<img src="../../images/assessmentImages/AluminumExtrusionDrawing.png" />
 
 ### Task 1:
 
-Create a new component and label it Sketch1: Create a sketch matching the following image on one of the principle planes of your project.
-
-<img src="../../images/assessmentImages/Exercise1-1.jpg" />
+Create a new component called AluminumExtrusion. Create a sketch on bottom plane and extrude it into a rectangular column consistent with the engineering drawing.
 
 ### Task 2:
 
-Create a new component and label it Sketch2:Create a sketch matching the following image on a different principle plane of your project.
+On the top face of the previous extrusion create a sketch or sketches that you need to create the cuts you will need to create this extrusion. Give it a try without referring to any videos. If you get stuck then consider where you have seen a technique used and review the videos. I will also link some hints here if you are having difficulties.
 
-<img src="../../images/assessmentImages/Exercise1-2.jpg" />
+I found creating various construction lines combined with mirroring very helpful in building this sketch. 
+
+For the purposes of this Skills Assessment you are NOT permitted to use the Pattern>Circular tool to create the overall extrusion. 
 
 ### Task 3:
 
-Examine the object provided in class and choose a feature that would require a sketch that is not a simple circle or rectangle. Get your choice approved by the instructor.
+Apply the specified fillets to one corner of the extrusion. You can do all the extrusions if you feel motivated to do so but once you've done one corner I'm convinced that you can do it.
 
-**3a:** Create a paper and pencil sketch of the feature with appropriate measurements.  This will guide the sketch you create in Fusion
+### Assessment Verification
 
-**3b:** Create a new component and label it Sketch3: Create a sketch in Fusion (on the remaining principle plane of your project.
-
-### Task 4: 
-
-Save your Fusion project to a local file named 'FusionSkills1(First name)(Last name)'. Insert your first and last name with first letters capitalized. Note that this should be a local file in case you need to submit it to your instructor.
-
-Take a screen shot of your desktop which should show all three sketches simultaneously. This is what you will turn into Canvas to verify your skills.
-
-You may find that Fusion is not showing all your sketches clearly. You may need to set the 'Object Visibility' on your desktop. Instructions [here](https://github.com/smithrockmaker/ENGR102/blob/main/Fusion360/Skills/SetObjectVisibility.md).
-
-### Instructor Verification
-
-Each of the tasks above will be validated and initialed by your instructor in lab (or in another setting if needed). Use [this checklist](https://github.com/smithrockmaker/ENGR102/blob/main/Fusion360/Skills/Checklists/FusionSkills1Checklist.docx) to track those validations. When your checklist is complete physically turn it in to your instructor.
+For this assessment taking a screen shot of your completed extrusion and submitting it to Canvas will be sufficient. Please refer to this [Fusion Screenshot Expectations] document for guidance.
