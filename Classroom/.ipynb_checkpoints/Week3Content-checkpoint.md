@@ -1,284 +1,117 @@
-## Week 2 Content
+## Week 3 Content
 
 General plan is engineering documentation, extrusions for Fusion, and generating gcode from .stl files for lab.
 
 ### Day 1 (Monday)
 
-### Engineering Process and Documentation
+### MLK Holiday and the Peaceful Transfer of Power
 
-* Review from previous week: questions, clarifications, etc. COCC admin issues?
-
-* Articulate the general plan from above.
-
-* Specific Fusion questions/issues from week 1 assignments (we will validate sketching skills this week)
-
-* Engineering Documentation: Why? 
-<blockquote>
-    
-    * Story from graduate school about notebooks
-
-    * Story from Boeing about electrical revs
-
-    * Story from Tyler about dimensions/drawings
-
-    * Fly's Eye code documentation
-    
-</blockquote>
-
-* Acknowledge that many variations in the tasks that scientists and engineers do. Some are more open and free form and others more repetitive or critical. Important enough that there is a competitive industry of folks providing tools to support this.
-
-* A framework for why...
-  
-<img src="../images/contentImages/LantroWhyDocumentation.png" />
-
-from [Lantro](https://www.lantrotech.com/)
-
-[the whole article](https://www.lantrotech.com/blog/the-power-of-engineering-documentationa-comprehensive-guide/)
-
-Discuss context in which each mode might apply.
-
-Another perspective from staff guidelines at a major university....
-
-<img src="../images/contentImages/KarolinskaResearchDocWhy.jpg" />
-
-from [Karolinska Institute](https://ki.se/en)
-
-[the whole article](https://staff.ki.se/research-support/research-data-management/why-should-research-be-documented)
-
-Again, discuss context
-
-* Relevance in this class:
-<blockquote>
-    
-    * Good notetaking in class is a version of documentation
-
-    * Lots of steps in processes we are learning. Keeping track
-
-    * My experience recently with Prusa Slicer
-    
-</blockquote>
-
-* Example: [NASA Technical Standards](https://standards.nasa.gov/nasa-technical-standards)
-
-Standards for everything -- why? Does SpaceX have something similar? Why or why not? Ford? 
-
-* Writing Skills: [iFixit Tech Writing Manual](https://about.ifixit.com/Tech_Writing)
-
-I think this is probably all we will have time to disucss today. Think about how you can begin a more effective documentation process going forward and what skills you might want to develop. As get deeper into the design of objects we will talk more about the details of generating engineering drawings specifically.
+No class today. Discussions begin next week about Engineering Design processes.
 
 ### Day 2 (Wednesday)
 
-### Fusion Sketching Check In:
+### Fusion Check In:
 
-* Talk briefly about the centrality of 'sketches' to the design process.
+Only a few folks have completed the first Fusion Skills activity. Do you have questions?
 
-<img src="../images/FusionImages/crosshead.jpg" />
+Other general questions about the Fusion tutorials?
 
-Discuss what sort of sketches might be useful for different parts of the cross head. What do you notice?
+### Fusion Skills 2
 
-<img src="../images/FusionImages/engineParts.jpg" />
+This weeks Fusion Skills activity is primarily about simple extrusions. Here is the link to the activity [FusionSkills2](https://github.com/smithrockmaker/ENGR102/blob/main/Fusion360/Skills/FusionSkills2.md). We'll review it.
 
-Mostly what sorts of sketches would you be using?
+At the end of the skills description there is a reference to [Fusion Screenshot Expectations](https://github.com/smithrockmaker/ENGR102/blob/main/Fusion360/ScreenShotExpectations.md). We will review this document as well to help align everyone's understanding of best practices for this class.
 
-<img src="../images/FusionImages/moreAuto.jpg" />
+### Fusion Classroom Activity
 
-...and here?
+**Notes for Bruce**
 
-#### What does this tell us?
+* Have Fusion up and running ahead of class
+  
+* Start with sketching a rectangle on the base plane and extrude it upwards 50 mm (random student)
+  
+* Add a circle that is bigger in diameter than the rectangle to the **SAME** plane as a separate sketch. Extrude up and down 40 mm. Want to end up with 2 'towers' standing on base plane (random student)
 
-#### Constraints
+* New sketch on plane perpendicular to base plane. Sketch a circle that is 'small' and will cut through at least one of the previous extrusions. Extrude through and join to previous elements of model. (random student)
 
-(pull up Fusion and sketch a wonky quadrilateral) What makes this different than a square or a rectangle? How might I get there? Did I need to be uptight in the begining?
+* New sketch on remaining plane that is 'small' square. Extrude and cut through as many of the previous extrusions as possible (random student)
 
-We'll pick an object to discuss in groups and then attempt at the board.
+* Change one of the sketches in a way which changes the intersection of the cut with the previous extrusions (random student)
 
-<img src="../images/FusionImages/ClassExercise.jpg" />
+* Finally, add a fillet to one of the edges of one of the rectangles. (random student)
 
-<img src="../images/FusionImages/ClassExercise2.jpg" />
+**Random Student Selection:**
 
-<img src="../images/FusionImages/ClassExercise3.jpg" />
+1: Pick student, get day of birth, take last digit and count rows. Odd on right even on left. Pick another student:)
 
+2: Next student, get day of birth, take day number and count down the row cycling if needed. That student goes to board.
+
+3: Student at board picks next student, back to 1:
 
 ### When we get to Lab:
 
-While some groups are working with the printers the rest of the groups will be exploring where everyone is at with creating sketches. (real time with Fusion on the board)
+While some groups are working with the printers the rest of the groups will be continuing to explore and develop their Fusion skills including executing current and past Fusion Skills Assessments.
 
 ### Prusa Slicer Discussion/Lab Prep
 
-**Options for slicers:** Slicers are an integral step in all 3D printing. There are a number of options of which Prusa Slicer, Ultimaker Cura, and Slic3r are probably the 3 most common. If you can use one you can probably find your way around one of the other ones. I'm sure there are plenty of custom in house slicers for folks like the ones at Relativity. We will use Prusa Slicer but if you take courses from our Graphic Design program I think they use Ultimaker Cura. No worries...
-
-**Configuring your Prusa Slicer:** For most personal copies of Slicer you want it to know what printers you commonly work. This smooths your workflow. Use the first few minutes of [this Tutorial from 3D Revolution](https://www.youtube.com/watch?v=_kIqMPNQNSw) to guide you through using the Configuration Wizard the first time you open Prusa Slicer.
-
-**Note:** I'm not sure at the moment whether the configurations are set on Slicer on the lab computers. I will update this note when I know.
-
-**Another Note:** Mostly what I am doing here is adding my thoughts to Prusa's [First Print with Slicer](https://help.prusa3d.com/article/first-print-with-prusaslicer_1753) tutorial. 
+**Configuring Prusa Slicer on Lab Computers:** If you are using the lab laptops you will need to rerun the configuration wizard since these computers are reset every night. 
 
 ### Bruce's Notes for Class:
 
 If you are doing this independently jump to the asynchronus notes below which should roughly replicate what I intend to do in class.
 
-**Prep:** Download both the hollow cube .stl file and the tweezer .stl file. Also save a custom print setting with 5 layer brim so it can be used.
+**Prep:** Download both the InfillTest.stl file. 
 
-* **Open Slicer** and note general form of desktop and the printer build plate that matches our printer.
+* **Open Slicer and Import InfillTest.stl**
+  
+* **Position model on plate (not in center)** and choose basic settings. Be sure to use a brim. As we change some of the print settings remember to save the changes with a useful profile name. Do you remembe how to lay it flat? The shape was created to allow a variety of ways for the infill to interact with the perimeters.
 
-* **Open Configuration Assistant** and quickly walk through the menus.
+* **Layers and Perimeters** To expose the infill we need to remove the top layers (set to 0). You will be asked to change the number of perimeters in each of your prints to have some appreciation of it's impact on rigidity and print times. Save the print setting profile at this point.
 
-* **Import tweezers.stl from the [tools folder](https://github.com/smithrockmaker/ENGR102/tree/main/3DPrinters/stlFiles/tools)** (or Another_Hollow_Cube.stl from the [test folder](https://github.com/smithrockmaker/ENGR102/tree/main/3DPrinters/stlFiles/test))
+* **Infill Choice** There are currently 18 infill patterns. Why would we need to many? Two articles discussing the impact of infill choices: [Article 1](https://help.prusa3d.com/article/infill-patterns_177130) and [Article 2](https://blog.prusa3d.com/everything-you-need-to-know-about-infills_43579/)
 
-* **Explore Standard Settings** in the top right of the desktop. Look through "Print settings", "Filament", and "Printer". Discuss choices. Note "brim" and "Infill" options.
+* **Slice and Assess** For me estimated print times were 10 ish minutes more or less.
 
-* **Discuss Modes:** I will expect the class to learn to work in the Normal mode. Strong cautions about Expert mode:)
+* **Export G-code to File/SD Card** When you're satisfied with the slice export the G-code. Repeat this process for each of the infill patterns your group is assigned. 
 
-* **Placing the object on the plate:** Mouse to change viewpoint. Drag, rotate in different directions, and place on different 'flats'. We are not worrying about the rest of the menu options at this point. Discuss how placement potentially affects bridging challenges.
+* **Go Print** We will collect all your print sample at the back of the class for everyone to examine
 
-* **Scaling:** There are many reasons to consider scaling an object. Note the ability to lock all scale factors together or scale independently. Discuss how the tweezers ended up scaled ONLY along the long axis.
 
-* **Explore other primary menus along top:** Note what happens as you change the user mode. Note what happens When you load a custom user preset (changes color of submenu) Note how many choices you have that you need not worry about until you have a need. It's like trying to understand all the menu options on any software package. What do we need to think about at this time?
+### Asynchronus Version of Infill Discussion
 
-* **Slice** the model and note what has changed.
-<blockquote> 
-    
-    * Note that bottom left menu pair has shifted from model view to sliced view. 
-    
-    * You can see all the basic features of the print for your choices. 
-    
-    * Note particularly the print time near bottom of legend window. 
-    
-    * Icons along the bottom help visualize particular features of the print process that you may have embedded in the print. 
-    
-    * Note in the window that pops up in bottom right you can see length of filament used in print. 
-    
-    * Note that you can zoom in on the sliced print and see different features of the print (decode from legend window)
+**Prusa Slicer Setting Menu** 
 
-* **To make changes** return to model view (bottom left), make changes, and reslice. You will do this a couple of times for the lab.
+Assuming everything from last weeks lab is still in your mind we will start here with the Print Settings menu (Normal mode).
 
-* **Export G-code:** When you're happy with your print then export the G-code (as a .gcode file for our Prusa printers -- if you get something else you have a printer setting issue:) This is the .gcode file that you will add to the SD card and take to the printer.
+<img src="../images/slicerImages/SlcrPrinterSettingsN.png" />
 
+Note that when change anything within one of these menu items it will change color until we save the printer profile (probably with a new name).
 
-### Asynchronus Version of Slicer Discussion
+**Layers and Perimeters:**
 
-**Prusa Slicer Desktop** 
+In order to show the interior structure of the infill we need to not cover it with the normal solid layers at the top. If you go to the Layers and Perimeters menu you will see a set of control choices for the Horizontal shells. If the lock is white the parameter is Locked. If the lock is open and orange you can change it. Normally there are 4 or so solid layers at the top. Set this down to 0 layers. This would be a good place to save the profile for today's lab.
 
-This is the image of the Slicer desktop for my current version which should be close to yours. At the end of this discussion you should be able to return to this image and identify a range of important features and menus.
+<img src="../images/slicerImages/SlcrLayersMenu.png" />
 
-<img src="../images/slicerImages/PrusaSlicerDesktop.png" />
+**Perimeters:**
 
-As you can see it provides you with a visualization of the build plate from our Prusa printers. This is comforting.
+Later on you will change the number of perimeter layers just to get and understanding of what that looks like. For now leave it at 2.
 
-**Standard Settings:**
+**Infill:**
 
-In the top right corner of the desktop is a summary of the basic settings that are currently in force for Slicer. There are three (3) major drop down menus available. (ignore the mode menu for now)
+Go to the Infill menu which looks like this. What we will be playing with are the Fill patterns.
 
-<img src="../images/slicerImages/SlicerQuickSet.png" />
+<img src="../images/slicerImages/SlcrInfillMenu.png" />
 
-* First (top) menu defines print quality generally. More specifically it sets the layer thickness and some other quality parameters depending on your needs.
+* **Infill Dropdown Options:** Here, in two images, are all the infill patterns available on our machines.
 
-* Second menu sets the filament type that you intend to use for this model (object). This affects temperatures and other features of the print. For us this will ALWAYS be Prusa PLA unless we get some other filaments.
+<img src="../images/slicerImages/SlcrInfillOpt1.png" />
 
-* Third menu tells Slicer what printer it is creating commands for. This is the choice that can really confuse the process if you get it wrong. The particular printers we have are MK3S+. The information about the MK3S+ is loaded when you run through the configuration wizard during setup. If you have access to more than one printer this is an easy setting to forget to adjust.
+<img src="../images/slicerImages/SlcrInfillOpt2.png" />
 
-* There is a check box at the bottom of this section to tell Slicer that you want a 'brim' around the edge of your print. I am recommending this for all of our prints. Probably being too cautious but it doesn't slow the print down significantly and minimizes adhesion problems. For "Infill" set to 15% as a starting point.
+This is where you choose which infill pattern to use for your print. You can print with different infills in different parts of a print but that's beyond our skill set at the moment.
 
-**Skill Mode:**
 
-Just above the menus we have just discussed is a mode dropdown menu. The names of the modes are slightly different in different generations of the software but Beginner, Normal, and Expert are pretty good descriptors. 
 
-<img src="../images/slicerImages/SlicerUserMode.png" />
 
-Switch between modes at each step in this weeks lab to see the differences in the options and layout of the software. We will typically work in Normal mode for this class. In Expert mode you can break things by telling the printer to do unwise things -- don't make changes here unless you're sure you know what you're doing!!
 
-**Place Object (.stl file):**
-
-On the icon menu at the top of the desktop frame the left most icon allows you to add an object to the build plate. Find the desired .stl file (tweezers.stl in this case) and open it.
-
-<img src="../images/slicerImages/SlicerAdd-stl.png" />
-
-When you open the .stl file it will drop the object in the middle of the build plate oriented as it was generated in the CAD software. This the original tweezer object from which I made the tweezers at each printer station.
-
-<img src="../images/slicerImages/SlicerObjectPlace.png" />
-
-By selecting the object (turns green on my version) you can drag it around on the build plate. With your mouse you can rotate the build plate to see the object from different perspectives. The scroll wheel will usually zoom in and out. Ultimately we are looking to position the object on the build plate in a way which maximizes the outcome of the print.
-
-The icon menu to the left offers a couple of commonly useful options. The 'rotate' icon pops up these handles on the object.
-
-<img src="../images/slicerImages/SlicerRotateHandles.png" />
-
-Using those handles we can reorient the object in arbitrary ways. The orientation shown below is NOT going to work well for many reasons not the least of which is that it isn't sitting on the build plate.
-
-<img src="../images/slicerImages/SlicerRotated.png" />
-
-Another option in the left menu is the 'place on face' option. Whe this is selected Slicer highlight the various flat planes that exist on the model.
-
-<img src="../images/slicerImages/SlicerPlaceFlat.png" />
-
-Selecting a highlighted plane places that plane flat on the build plate. This is a good tool for being sure that your object is flat on the build plate. Consider the consequences of your choices. The choice indicated below is also NOT wise given other much better choices. 
-
-<img src="../images/slicerImages/SlicerPlacePoor.png" />
-
-The original orientation of this object as imported is actually pretty good.
-
-**Scaling:**
-
-The tweezers are an example of an object which might be scaled. For me these tweezers seemed overly large. Scaling an object is a useful option in many cases. In the bottom right corner is another object manipulation menu. For today we are interested in the scaling part of the menu.
-
-<img src="../images/slicerImages/SlicerScalingLocked.png" />
-
-The lock icon next to the Scale Factors/Size indicates that scaling in any one direction will be automatically applied to all directions. Selecting the lock (which turns the lock orange) allows you to scale differently along different axes. This icon color change shows up in other places in Slicer.
-
-<img src="../images/slicerImages/SlicerScalingUnlocked.png" />
-
-If I lock the scales and reduce the tweezers to 50% of their original size (in all directions) it looks like this.
-
-<img src="../images/slicerImages/SlicerScaledLocked.png" />
-
-..which looked like this...
-
-<img src="../images/slicerImages/Tweezers50xyz.png" />
-
-When I printed these tweezers they were to flexible so I unlocked the axes and scaled them only in x (the length) to get....
-
-<img src="../images/slicerImages/SlicerScaled50x.png" />
-
-<img src="../images/slicerImages/Tweezers50x.png" />
-
-These are what are at each printer and they work pretty well I think.
-
-You can also scale by adjusting the length along an axis instead of a percentage. Looks pretty similar....
-
-<img src="../images/slicerImages/SlicerScaledLength.png" />
-
-**Slicing:**
-
-Once you are satisfied with your object placement, orientation, and scaling now it's time to slice it. This is why it's called Slicer:) In the object manipulation window where we were playing with the scaling there is a button for "Slice now". This executes the code for slicing the object into layers.
-
-The image of your object will change colors and all the physical features of the print will be shown on the build plate.
-
-<img src="../images/slicerImages/TweezersSliced.png" />
-
-The key to interpreting the sliced image is in the legend that appears in the top left of the build window. The drop down menu at the top allows you select various characteristics of the print to display. For the time being the "Feature type" option is probably the most useful. Of particular interest is the total print time displayed at the bottom of the legend window.
-
-<img src="../images/slicerImages/TweezersLegend.png" />
-
-**NOTE:** On the bottom and right of the build windows are now slicers that represent 'time' (on the bottom) and 'layer' (one the right). Manipulating layer slider allows you to see the details of each layer.
-
-<img src="../images/slicerImages/TweezersLayer.png" />
-
-Manipulating the time slider allows you to see the path of the nozzle and the gcode which drives it. 
-
-<img src="../images/slicerImages/TweezersGcode.png" />
-
-If you decide that you want to change something go to the bottom left of the build window and select the model view (left) instead of the layer view (right). This will return you to the unsliced model mode and you can make changes and then reslice the model.
-
-<img src="../images/slicerImages/SlicerSolidSliced.png" />
-
-**Export G-code:**
-
-Once you have sliced your object you will see a new window in the bottom right below the object manipulation window. This window, the Sliced Info window will indicate how much filament the print will use along with reiterating the estimated print time (generally pretty good estimate). 
-
-<img src="../images/slicerImages/SlicerExportGcode.png" />
-
-When you are ready export the G-code to a file/folder on your computer. This is the file that you will load onto an SD card. We gave SD card reader dongles next to each printer to facilitate copying the G-code file to the SD card. Choose your file name wisely so you can find it on the SD card. I recommend adding your initials or some 3 character identifier to the head of the file name. 
-
-**Go Print!**
-
-If all goes well your print will come out as you intended. If not, then back to either the design to modify it or to Slicer to change the print characteristics.
