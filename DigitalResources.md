@@ -53,6 +53,19 @@ While there are
 
 [Creating Shop Drawings with Fusion](https://www.youtube.com/watch?v=GUDhet2TKHQ&t=1827s)
 
+[McGill Engineering Drawings](https://www.mcgill.ca/engineeringdesign/step-step-design-process/basics-graphics-communication/drawing-format-and-elements)
+
+[Synbridge Engineering Drawings](https://sybridge.com/what-to-include-in-engineering-drawing/)
+
+[broad intro to engineering drawings (workflow)](https://newtonianworld.com/mechanical-design-engineering-topics/engineering-drawings/introduction-to-engineering-drawings/)
+
+[Elements of Engineering Drawings](https://newtonianworld.com/mechanical-design-engineering-topics/engineering-drawings/basic-elements-of-engineering-drawings/)
+
+['Rules' for Dimensioning](https://productdesignonline.com/tips-and-tricks/20-rules-for-dimensioning-2d-cad-drawings-in-fusion-360/)
+
+[Kevin's Drawing Tutorial - Day 26 in old version](https://www.youtube.com/watch?v=L0IwfH-9Fss)
+
+
 ### 3D Printing Learning:
 
 When you need to download the Prusa Slicer software: [Prusa Slicer](https://www.prusa3d.com/page/prusaslicer_424/)
@@ -84,6 +97,14 @@ When you need to download the Prusa Slicer software: [Prusa Slicer](https://www.
 [Use Case: Ocean Going Laboratory](https://www.matterhackers.com/articles/creating-custom-3d-brackets-for-an-ocean-going-laboratory)
 
 [Torture Test Prints](https://www.3dsourced.com/guides/test-3d-prints-calibration/)
+
+### 3D Printing Advanced
+
+[variable printing across one job](https://forum.prusa3d.com/forum/original-prusa-i3-mk3s-mk3-how-do-i-print-this-printing-help/can-you-change-the-infill-settings-for-different-parts-of-a-model/)
+
+### G-Code
+
+[Marlin G-code](https://marlinfw.org/meta/gcode/)
 
 ### Compliant Design
 
