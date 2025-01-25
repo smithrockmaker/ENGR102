@@ -24,7 +24,7 @@ Depending on details this should take about 30-45 min if you have been efficient
 
 ### Activity 5: Reflection
 
-Read Prusa's article about [infill patterns and their applications](https://help.prusa3d.com/article/infill-patterns_177130) Describe how your print experience validates or not the time and material assertions in the Prusa article. This assumes you have noted filament usage and well as print time for each of your prints. In addition discuss the three prints your group did with another group and see if your results are consistent with theirs.
+Read Prusa's article about [infill patterns and their applications](https://help.prusa3d.com/article/infill-patterns_177130) Describe how your print experience validates or not the time and material assertions in the Prusa article. This assumes you have noted filament usage and well as print time for each of your prints. In addition discuss the three prints your group did with another group and see if your results are consistent with theirs. Here is [another perspective](https://blog.prusa3d.com/everything-you-need-to-know-about-infills_43579/)from the Prusa Knowledge Base
 
 If you wish to look a litte further [here is another discussion](https://explore3dprint.com/3d-print-infill-a-comprehensive-guide/) of the engineering characteristics that result from infill choices. It doesn't explore all of the Prusa possibilities but will give you a sense of the richness of this topic.
 

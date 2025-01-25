@@ -150,6 +150,8 @@ When you need to download the Prusa Slicer software: [Prusa Slicer](https://www.
 
 **DLab**
 
+**dSchool**
+
 **NASA**
 
 [NASA Systems Engineering](https://www.nasa.gov/reference/2-1-the-common-technical-processes-and-the-se-engine/)
