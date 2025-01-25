@@ -14,7 +14,41 @@ Engineering sounds like a relatively singular thing but as you are discovering i
 
 ### Silicon Valley/dschool
 
-One version of engineering design, or just design, is implemented by the [dschool](https://dschool.stanford.edu/) at [Stanford University](https://www.stanford.edu/). Stanford is at the heart of Silicon Valley and this design process very common across the world of tech startups that have their roots in Silicon Valley. 
+One version of engineering design, or just design, is implemented by the [dschool](https://dschool.stanford.edu/) at [Stanford University](https://www.stanford.edu/). Stanford is at the heart of Silicon Valley and this design process very common across the world of tech startups that have their roots in Silicon Valley. [This talk from TED](https://www.ted.com/talks/tony_fadell_the_first_secret_of_design_is_noticing) exemplifies this design process. The following graphic summarizes the process.
+
+<img src="../images/contentImages/dschoolDesignThinking.jpg" />
+
+In some sense you are probably familiar with this process since it is deeply embedded in our educational system of the last 20 years. If you want to dig deeper later here is a [pdf with a more complete description](https://github.com/smithrockmaker/ENGR102/blob/main/documents/DesignDocs/DSchoolBootcamp.pdf). We will talk this through before doing a very abbreviated exercise.
+
+It is relevant to note that this process has become a standalone business with lots of folks selling 3-5 day workshops that intend to solve various design challenges for other businesses.
+
+### Design Exercise:
+
+(form groups of 4-6)
+
+You are all aware of the traffic along Hwy 97 has been getting greater and greater. In the Bend area the average daily traffic count is between 30,000 and 50,000 in the latest Oregon data. Even north in Terrebonne that number is only cut in half to somewhere between 15,000 and 30,000 vehicles daily. This is between 20 and 40 cars every minute passing through Terrebonne. Locals are aware that taking a left onto Hwy 97 at most times during the day is a fools errand. Most visitors to Smith Rock State Park are not so clear on the concept. 
+
+Let's take this as a civil engineering design problem and consider possible solutions using the Design Thinking approach.  Below is a map of Terrebonne pretty much from end to end.
+
+<img src="../images/contentImages/TerrebonneMap.png" />
+
+A couple of data points you may wish to consider. The local elementary school is on B Street just off of Hwy 97 to the West (left). The junction at the North end of Terrebonne across from the Kingdom Hall feeds  Crooked River Ranch which has a population of roughly 5000 folks. On a busy day between 500 and 1000 cars take a right on Smith Rock Way to go to the park. Mostly they come back the same way.
+
+Given all that....
+
+**Empathise:** (1 min solo, 2 min consolidate, 2 min report out)
+What are the pain points for users?
+
+**Define:** (1 min solo, 2 min discuss, 2 min report out)
+What are some requirements/objectives for a design solution?
+
+**Ideate:** (1 min solo, 3 min discuss, 3-4 min report out)
+This is what you know as brainstorming. See how it feels in your group.
+
+**Prototype/Test:** (class discussion 5-10 min)
+How does one explore the various possible solutions that come from the ideation phase.
+
+If we have time we can look at [ODOT's solution](https://github.com/smithrockmaker/ENGR102/blob/main/documents/DesignDocs/TerrebonneMap.pdf).
 
 
 

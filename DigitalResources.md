@@ -152,10 +152,23 @@ When you need to download the Prusa Slicer software: [Prusa Slicer](https://www.
 
 **dSchool**
 
+[Design thinking was supposed to fix the world. Where did it go wrong?](https://www.technologyreview.com/2023/02/09/1067821/design-thinking-retrospective-what-went-wrong)
+
+[Let’s stop talking about THE design process](https://medium.com/stanford-d-school/lets-stop-talking-about-the-design-process-7446e52c13e8)
+
+[The History of Design Thinking](https://www.geeksforgeeks.org/the-history-of-design-thinking/)
+
+[ideo-breaks-its-silence-on-design-thinkings-critics](https://www.fastcompany.com/90257718/ideo-breaks-its-silence-on-design-thinkings-critics)
+
+[Exploring the Reasons for Design Thinking Criticism](https://www.toptal.com/designers/product-design/design-thinking-criticism)
+
+
 **NASA**
 
 [NASA Systems Engineering](https://www.nasa.gov/reference/2-1-the-common-technical-processes-and-the-se-engine/)
 
 [NASA Systems Design Process](https://www.nasa.gov/reference/4-0-system-design-processes/)
+
+
 
 
