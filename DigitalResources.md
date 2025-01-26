@@ -65,6 +65,14 @@ While there are
 
 [Kevin's Drawing Tutorial - Day 26 in old version](https://www.youtube.com/watch?v=L0IwfH-9Fss)
 
+### Lego Brick Dimensions
+
+[Site 1](https://jriedel1.wixsite.com/engineering-ii/copy-of-lego)
+
+[Site 2](https://www.bartneck.de/2019/04/21/lego-brick-dimensions-and-measurements/)
+
+[Hackaday LDU's](https://hackaday.com/2024/12/27/ldu-decoded-the-untold-tale-of-lego-dimensions/)
+
 
 ### 3D Printing Learning:
 

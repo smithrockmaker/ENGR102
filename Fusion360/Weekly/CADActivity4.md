@@ -1,25 +1,29 @@
 ## Kevin Kennedy
 
-### Notes from Day 4,5,6
+### Notes from Day 29,4,5
 
-[Day 4](https://www.youtube.com/watch?v=DfAfxae8aRc&list=PLrZ2zKOtC_-C4rWfapgngoe9o2-ng8ZBr&index=5)
+[Day 29](https://www.youtube.com/watch?v=NweBvuVYuQo)
+
+**2D Drawings:**
+
+It appears that you do have access to the Automatic option for creating your drawing with your education license. Having tried it I strongly recommend AGAINST it! The Automatic option overpopulates the drawing with many dimensions and places them in ways which are visually confusing. Stick with the Manual mode as you are learning how to communicate with the folks at the fabrication end of the process (which is also you:)
+
+Recognize that one doesn't always need all of the standard projections to fully define the model. Including the isometric view somewhere on the drawing is generally good practice especially for us.
+
+Very handy to be able to do a detail view.
+
+For our purposes we will export these drawings as pdf files that can be submitted to Canvas.
+
+
+[Day 4](https://www.youtube.com/watch?v=9Y-3W-Pr64U)
 
 **Lofted Bottle:**
 
 This all went pretty smoothly for me. I did have one point where I didn't smoothly join the rail to the profile and I got complaints. Went back and fixed the rail sketch and all was well.
 
-[Day 5](https://www.youtube.com/watch?v=DfAfxae8aRc&list=PLrZ2zKOtC_-C4rWfapgngoe9o2-ng8ZBr&index=6)
+[Day 5](https://www.youtube.com/watch?v=zN44hW9zX1I)
 
-**Egg Box:**
+**Ice Cube Tray:**
 
 Also went smoothly. A couple of places I needed to connect various sketches more directly so the filleting would work. Generally pretty smooth.
 
-[Day 6](https://www.youtube.com/watch?v=DfAfxae8aRc&list=PLrZ2zKOtC_-C4rWfapgngoe9o2-ng8ZBr&index=7)
-
-**Hex Nut:**
-
-Noticed as this video started that Kevins description of the various planes and axes in his system are rotated from the default settings for my system. This led to a confusion at the chamfer step that took some time to clarify in my own mind.
-
-Also started smoothly but ran into issues creating the sketch to revolve to create the chamfer on the nut. After some fussing and figuring out a more complicated way of replicating what Kevin did I realized that my problem was related to the axis orientation comment from before. The 'back' plane of the origin system (X-Y in my system) cuts through the center of the nut. If I turn off the body and select that 'back' plane to sketch on than everything works. I had been sketching on one of the nut faces which was NOT working.
-
-Everything else went well.

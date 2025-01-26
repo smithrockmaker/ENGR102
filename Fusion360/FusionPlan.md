@@ -16,10 +16,10 @@ Primary focus for this week is creating sketches that are the basis of 3D modeli
 **CAD Learning**
 
 Day 1 from Kevin: This is a quick start to understanding how to work in Fusion 360. Be sure and follow along and create your own version of the design. We will be using this elsewhere in the course soon. 13 min
-[Learn Fusion 360 in 30 Days: Day 1](https://www.youtube.com/watch?v=d3qGQ2utl2A&list=PLrZ2zKOtC_-C4rWfapgngoe9o2-ng8ZBr&index=2)
+[Learn Fusion 360 in 30 Days: Day 1](https://www.youtube.com/watch?v=d3qGQ2utl2A)
 
 Part I from Lars: Different approach but also gets you many skills in short order. Be aware that he is using an older version of Fusion 360 so the tools and menus look a little different. That is intentional on my part and good practice for you. 20 min
-[Fusion 360 for Absolute Beginners: Part 1](https://www.youtube.com/watch?v=A5bc9c3S12g&list=PL40d7srwyc_Ow4aaOGXlP2idPGwD7ruKg)
+[Fusion 360 for Absolute Beginners: Part 1](https://www.youtube.com/watch?v=A5bc9c3S12g)
 
 **CAD Deliverables**
 
@@ -36,10 +36,10 @@ Primary focus for this week is working with extrusions with attention to paramet
 **CAD Learning**
 
 Day 2 from Kevin: Extruding by revolving is useful as well as working with images and splined curves.  12 min
-[Learn Fusion 360 in 30 Days: Day 2](https://www.youtube.com/watch?v=DfAfxae8aRc&list=PLrZ2zKOtC_-C4rWfapgngoe9o2-ng8ZBr&index=3)
+[Learn Fusion 360 in 30 Days: Day 2](https://www.youtube.com/watch?v=DfAfxae8aRc)
 
 Part 2 from Lars: Continuing with the conduit box. 19 min
-[Fusion 360 for Absolute Beginners: Part 2](https://www.youtube.com/watch?v=HXRMzJWo0-Q&t=2s)
+[Fusion 360 for Absolute Beginners: Part 2](https://www.youtube.com/watch?v=HXRMzJWo0-Q&t=633s)
 
 **CAD Deliverables**
 
@@ -60,7 +60,7 @@ Sweeping shapes is focus of Kevin's tutorial. Lars explores assembling multiple 
 Even though we don't have class on Monday there is plenty of time to stay on track with developing your Fusion skills.
 
 Day 3 from Kevin: Cool to learn about sweeping. 
-[Learn Fusion 360 in 30 Days: Day 3](https://www.youtube.com/watch?v=ZReXmjT42DM&list=PLrZ2zKOtC_-C4rWfapgngoe9o2-ng8ZBr&index=4)
+[Learn Fusion 360 in 30 Days: Day 3](https://www.youtube.com/watch?v=ZReXmjT42DM)
 
 
 Part 3 from Lars: Finishing the Conduit Box: (part 3). Feels good to finish the box. Adding the screws is irritating. Don't get stuck on that part as it is not high value at this moment.
@@ -73,21 +73,37 @@ Create specified Aluminum Extrusion to demonstrate extrusion and other skills
 
 **Unresolved:** 
 
-[shop drawings](https://www.youtube.com/watch?v=GUDhet2TKHQ)
 
 ### Week 4:
 
 **Topic:** 
 
-Shop drawings/ Establish volume of design (for 3D printing)
+Engineering/shop drawings:
 
-**Outcomes:** 
+**CAD Learning**
 
-**Class:** 
+Day 29 from Kevin: This goes through the basics of creating a 2D drawing (engineering or shop drawing) from your Day 1 'Lego' Brick. This is out of order but will help us with our class work. 
 
-**Lab:** 
+[Learn Fusion 360 in 30 Days: Day 29](https://www.youtube.com/watch?v=NweBvuVYuQo)
+
+Day 4 from Kevin explores using the lofting tools to create a bottle. 
+
+[Learn Fusion 360 in 30 Days: Day 4](https://www.youtube.com/watch?v=9Y-3W-Pr64U)
+
+Day 5 reviews some of the patterning processes along with other processes through designing an ice cube tray.
+
+[Learn Fusion 360 in 30 Days:Day 5](https://www.youtube.com/watch?v=zN44hW9zX1I)
+ 
+**[Bruce's Notes:](https://github.com/smithrockmaker/ENGR102/blob/main/Fusion360/Weekly/CADActivity4.md)**
+
+**CAD Deliverables**
+
+Create specified electrical box to demonstrate your growing skills.
+[Fusion Skills 3:](https://github.com/smithrockmaker/ENGR102/blob/main/Fusion360/Skills/FusionSkills3.md) The skills assessment for this week is focused on creating and dimensioning sketches. I feel like the checklist I created for an earlier Fusion Skills Assessment is a little superflous so I am dropping them unless you convince me it is valuable.
 
 **Unresolved:** 
+
+[shop drawings](https://www.youtube.com/watch?v=GUDhet2TKHQ)
 
 ### Week 5:
 

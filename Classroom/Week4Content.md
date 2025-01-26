@@ -6,7 +6,7 @@ General plan is engineering documentation, extrusions for Fusion, and generating
 
 ### Engineering Design:
 
-So, what is design? Before we can explore various approaches to design it seems appropriate to have a working definition of the concept. [RISD (Rhode Island School of Design)](https://www.risd.edu/) is one of the premier design schools in this country. Here is their [description of design](http://id.risd.edu/undergraduate-program-information) from their website. (In the event this webpage should disappear here is a rough version as a [Word doc]())
+So, what is design? Before we can explore various approaches to design it seems appropriate to have a working definition of the concept. [RISD (Rhode Island School of Design)](https://www.risd.edu/) is one of the premier design schools in this country. Here is their [description of design](http://id.risd.edu/undergraduate-program-information) from their website. (In the event this webpage should disappear here is a rough version as a [Word doc](https://github.com/smithrockmaker/ENGR102/blob/main/documents/DesignDocs/MissionRISD.doc))
 
 We will lightly review the main headers in this definition since it is a very inclusive definition that is worth appreciating.
 
@@ -48,7 +48,7 @@ This is what you know as brainstorming. See how it feels in your group.
 **Prototype/Test:** (class discussion 5-10 min)
 How does one explore the various possible solutions that come from the ideation phase.
 
-If we have time we can look at [ODOT's solution](https://github.com/smithrockmaker/ENGR102/blob/main/documents/DesignDocs/TerrebonneMap.pdf).
+If we have time we can look at [ODOT's solution](https://github.com/smithrockmaker/ENGR102/blob/main/documents/DesignDocs/TerrebonneProjectMap.pdf).
 
 
 
@@ -60,21 +60,21 @@ Everyone should be done with the first 3 videos from Kevin and Lars collectively
 
 ### Fusion Skills 3
 
-This weeks Fusion Skills activity is primarily about simple extrusions. Here is the link to the activity [FusionSkills2](https://github.com/smithrockmaker/ENGR102/blob/main/Fusion360/Skills/FusionSkills3.md). We'll review it.
+This weeks Fusion Skills activity is primarily about simple extrusions. Here is the link to the activity [FusionSkills3](https://github.com/smithrockmaker/ENGR102/blob/main/Fusion360/Skills/FusionSkills3.md). We'll review it.
 
 At the end of the skills description there is a reference to [Fusion Screenshot Expectations](https://github.com/smithrockmaker/ENGR102/blob/main/Fusion360/ScreenShotExpectations.md). We will review this document as well to help align everyone's understanding of best practices for this class.
 
-### Fusion Classroom Activity
+### Fusion Classroom Activity: Engineering Drawings
 
 **Notes for Bruce**
 
 * Have Fusion up and running ahead of class
   
-* 
+* Load up toy block and demonstrate the basic tools needed from the Day 29 tutorial
 
-**Random Student Selection:**
+* Export pdf to illustrate generating this document for submission to Canvas
 
-Need new process but right idea
+
 
 ### When we get to Lab:
 
@@ -82,27 +82,12 @@ While some groups are working with the printers the rest of the groups will be c
 
 ### Prusa Slicer Discussion/Lab Prep
 
-**Configuring Prusa Slicer on Lab Computers:** If you are using the lab laptops you will need to rerun the configuration wizard since these computers are reset every night. 
+**Configuring Prusa Slicer on Lab Computers:** If you are using the lab laptops remember you will need to rerun the configuration wizard since these computers are reset every night. 
 
 ### Bruce's Notes for Class:
 
 If you are doing this independently jump to the asynchronus notes below which should roughly replicate what I intend to do in class.
 
-**Prep:** Download both the InfillTest.stl file. 
-
-* **Open Slicer and Import InfillTest.stl**
-  
-* **Position model on plate (not in center)** and choose basic settings. Be sure to use a brim. As we change some of the print settings remember to save the changes with a useful profile name. Do you remembe how to lay it flat? The shape was created to allow a variety of ways for the infill to interact with the perimeters.
-
-* **Layers and Perimeters** To expose the infill we need to remove the top layers (set to 0). You will be asked to change the number of perimeters in each of your prints to have some appreciation of it's impact on rigidity and print times. Save the print setting profile at this point.
-
-* **Infill Choice** There are currently 18 infill patterns. Why would we need to many? Two articles discussing the impact of infill choices: [Article 1](https://help.prusa3d.com/article/infill-patterns_177130) and [Article 2](https://blog.prusa3d.com/everything-you-need-to-know-about-infills_43579/)
-
-* **Slice and Assess** For me estimated print times were 10 ish minutes more or less.
-
-* **Export G-code to File/SD Card** When you're satisfied with the slice export the G-code. Repeat this process for each of the infill patterns your group is assigned. 
-
-* **Go Print** We will collect all your print sample at the back of the class for everyone to examine
 
 
 ### Asynchronus Version of 

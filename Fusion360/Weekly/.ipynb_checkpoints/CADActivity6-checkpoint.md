@@ -1,33 +1,6 @@
 ## Kevin Kennedy
 
-### Notes from Day 7,8,9
-
-[Day 7](https://www.youtube.com/watch?v=Mv54UfwYYos&list=PLrZ2zKOtC_-C4rWfapgngoe9o2-ng8ZBr&index=8)
-
-**Handlebar Grip:**
-
-Lots of parts that took some fussing for me.
-
-I had to play with the Appearance command a bit to get how to apply it just to the second body (the aluminum ring at the end). 
-
-Took a little fussing to select the right plane at the end of the rings to make the sketch to create a backdrop for the text. Eventually found it. 
-
-To select the text which is buried inside the handle I found I had to turn off all of the other sketches (select the 'eye' to turn off all the other sketches) This made the Mountaineer text easy to select and then proceed with the lesson.
-
-Because Kevin is not showing the whole drop down list of the bodies and sketches I wasn't completely sure what he did. I was having no luck changing the appearance of the text until I realized he had created a new 'body' when he made that extrusion/push/pull. Fusion actually creates a separate body for each letter of the text. Once I did that I could apply the new appearance to the text.
-
-Finally -- took about an hour for me to do this one and sort out my mistakes.
-
-
-[Day 8](https://www.youtube.com/watch?v=Mv54UfwYYos&list=PLrZ2zKOtC_-C4rWfapgngoe9o2-ng8ZBr&index=9)
-
-**Door Stop:**
-
-Draft command seems quite useful. Also interesting to create an object from bodies rather than extruded sketches. Not sure yet what the drivers are that would make me choose one method over the other.
-
-This tutorial went a bit smoother than the previous one. Nothing that seemed to work totally differently than Kevin was presenting.
-
-I'm finding that it helps to wrtie down various dimensions so that I can more smoothly implement my version of the tutorial without having to constantly refer back to the video.
+### Notes from Day 9,10
 
 [Day 9](https://www.youtube.com/watch?v=Mv54UfwYYos&list=PLrZ2zKOtC_-C4rWfapgngoe9o2-ng8ZBr&index=10)
 
@@ -40,3 +13,25 @@ Creating the various shapes and even threads feels more and more comfortable. Ap
 I am also a bit aggravated about the location of the rotation center for the object. Kevin's works a little differently which sometimes makes it hard for me to find the same surfaces. I'll bet there is a preference someplace that I don't know about. 
 
 Otherwise....good.
+
+[Day 10](https://www.youtube.com/watch?v=Mv54UfwYYos&list=PLrZ2zKOtC_-C4rWfapgngoe9o2-ng8ZBr&index=11) 8:25
+
+**Phone Case:**
+
+The step file for the phone is linked [here](https://github.com/smithrockmaker/ENGR102/blob/main/documents/FusionDocs/Google%20Pixel%203.stp) so you don't have to go chase it down on [grabcad.com](https://grabcad.com/)
+
+The phone.step file that is linked above imported flat for me so I didn't need to create the joint to get it to lay flat. I did follow through the joint process but then deleted it since the orientation was already appropriate to the video.
+
+The Project command is on the Create dropdown menu in the Sketch environment. The .stp file I loaded seems to have very similar characteristics to the one Kevin is using.
+
+When I sketched the cross section of the case which we are going to sweep later I couldn't get the 'stubs' (1.25 mm and 2.0 mm long) to turn black (constrained). In the end I found that they probably weren't exactly in line with the center of the projected phone body. To fix the problem I had to (after trying a lot of other ideas!) use the colinear constraint tool to make the center of the arc, the end of the projected phone body, and the outer corner colinear. Then it turned black -- whew.
+
+As usual setting appearances is aggravating. Right click on the PhoneCase component and you get the Appearance window. 
+
+I am noticing that Kevin seems to most commonly work with a Visual Style from the Display Settings menu that is 'Shaded with Visible Edges Only'. I tend to like to see the hidden edges to help me visualize what is happening. Probably just weirdness on my part.
+
+The last couple of minutes of this video basically suggest that you repeat a large number of the steps from earlier in the video. This takes quite some time but is a very valuable exploration of my/your learning. In particular there are some issues with the underlying imported body that we are starting from. In particular I found that the speaker at the bottom of the case had problems after projecting that prevented me from applying a chamfer to the edge after I finally managed to extrude it. There was also a problem getting the speaker port extruded that turns out to be because the underlying drawing of the phone has a discontinuity that doesn't fix as easily as the gaps that Kevin fixed in the earlier part of the video. I was able to manually fix the sketch and then extrude it. 
+
+My suggestion is to explore all of the tasks that are suggested at the end of the video for up to an hour and then call your learning complete for now. You will notice in the comments for this video that many folks found this one challenging and some didn't even finish. Take heart, you're learning just like everyone else.
+
+
