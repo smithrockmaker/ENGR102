@@ -4,7 +4,7 @@ This document is intended to describe the details of activities that will take p
 
 Generally any worksheets that you need for lab will be provided at the lab. I have linked the documents for any other potential users.
 
-For the lab you will be working with an .stl file from [InfillTest.stl](https://github.com/smithrockmaker/ENGR102/blob/main/3DPrinters/stlFiles/articulated/) as your model file.
+For the lab you will be working with an .stl file from [articulated folder](https://github.com/smithrockmaker/ENGR102/blob/main/3DPrinters/stlFiles/articulated/) as your model file.
 
 ### Activity 1: Choose Articulated Model
 

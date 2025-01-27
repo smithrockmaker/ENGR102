@@ -1,31 +1,33 @@
-## ENGR102 Lab #3
+## ENGR102 Lab #4
 
 This document is intended to describe the details of activities that will take place during this lab. Deliverables are items that you will each turn in (as a document) or demonstrate (to your instructor) to recieve full credit for the lab.
 
 Generally any worksheets that you need for lab will be provided at the lab. I have linked the documents for any other potential users.
 
-For the lab you will be working with [InfillTest.stl](https://github.com/smithrockmaker/ENGR102/blob/main/3DPrinters/stlFiles/Infill/InfillTest.stl) as your model file.
+For the lab you will be working with an .stl file from [articulated folder](https://github.com/smithrockmaker/ENGR102/blob/main/3DPrinters/stlFiles/articulated/) as your model file.
 
-### Activity 1: Intro to Prusa Slicer
+### Activity 1: Choose Articulated Model
 
-Using the resources presented in class to complete the [Infill Test Guide](https://github.com/smithrockmaker/ENGR102/blob/main/3DPrinters/LabGuides/worksheets/InfillTest.docx).
+Choose an .stl file from those in the articulated folder on the github (linked above). All of these models create objects with interlocking moveable parts. Most take around an hour to print at 0.3mm with no brim. Slice your chosen object, be sure it prints in about an hour or less, and export the G-code to an SD card. Get it started on a printer or identify which printer you're in line for.
 
-### Activity 2: Define Print Features: Layers and Perimeters
+**NO BRIM!**
 
-To be able to see the actual infill pattern we have to eliminate the top layers of the print. At the same time you will explore changing the number of perimeter layers as well. Refer to [Week3Content](https://github.com/smithrockmaker/ENGR102/blob/main/Classroom/Week3Content.md) for reminders of how to access and modify the menus. 
+Refer to previous lab materials if you're unsure about the printing process.
 
-### Activity 3: Choose Infill Patterns
+### Activity 2: Reverse Engineering
 
-Each group will be assigned 3 infill patterns to print. In Normal mode the are 18 possible patterns in Prusa Slicer. This will allow us to get a clear sense of what the patterns look and feel like.
+While your object is printing return to slicer. Look down through the layers to understand how the print interlocks the parts so they move but stay together. You can make some reasonable estimates of the width of any gaps from the extruder paths as well as the shape of the interlocking parts. Sketch the shape of those interlocking parts so you COULD implement it in Fusion. Your sketch should provide all the detail you need to create your own test version of the object.
 
-### Activity 4: Print Test Objects
+This sketch will be scanned and turned into Canvas directly.
 
-Depending on details this should take about 30-45 min if you have been efficient about getting your gcode organized and copied to the SD card. Along the way you are reviewing your printing skills. Each member of the group will take full preparation and printing responsibility for one of the tests.
+### Activity 3: Assess the Success of the Print
 
-### Activity 5: Reflection
+When your group completes it's print **be sure to clean up** all the plastic bits at the printer before moving on to explore how the articulated object moves. Does it bind in certain places? Does it loosen up with wear? What is the range of motion for a given trapped object?
 
-Read Prusa's article about [infill patterns and their applications](https://help.prusa3d.com/article/infill-patterns_177130) Describe how your print experience validates or not the time and material assertions in the Prusa article. This assumes you have noted filament usage and well as print time for each of your prints. In addition discuss the three prints your group did with another group and see if your results are consistent with theirs. Here is [another perspective](https://blog.prusa3d.com/everything-you-need-to-know-about-infills_43579/)from the Prusa Knowledge Base
+### Activity 4: Reflection
 
-If you wish to look a litte further [here is another discussion](https://explore3dprint.com/3d-print-infill-a-comprehensive-guide/) of the engineering characteristics that result from infill choices. It doesn't explore all of the Prusa possibilities but will give you a sense of the richness of this topic.
+Reverse engineering is a real job but more importantly it's a way of learning from what others have done. What did you learn about your skills in reverse engineering as you tried to figure out how someone else created an articulating joint? How might you improve your skills at reverse engineering?
+
+Your reflection is turned in directly to Canvas.
 
 
