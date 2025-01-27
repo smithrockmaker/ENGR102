@@ -80,17 +80,21 @@ At the end of the skills description there is a reference to [Fusion Screenshot 
 
 While some groups are working with the printers the rest of the groups will be continuing to explore and develop their Fusion skills including executing current and past Fusion Skills Assessments.
 
-### Prusa Slicer Discussion/Lab Prep
+### Lab Prep: Articulated Objects
 
-**Configuring Prusa Slicer on Lab Computers:** If you are using the lab laptops remember you will need to rerun the configuration wizard since these computers are reset every night. 
+The purpose of this weeks lab prints is to explore how folks make print in place flexible objects. One way of describing such objects is that they are articulated. All of the objects that I have provide take in the range of 60 min to print so getting the print going, and handing the printer off to the next group, will be important in completing the task.
 
-### Bruce's Notes for Class:
+Now that you, in principle, know how to safely use the 3D printers and understand the workflow from downloading an .stl file to loading the G-Code onto the printer I will be giving much less explicit directions about the process. Please refer to past lab notes if you are uncertain.
 
-If you are doing this independently jump to the asynchronus notes below which should roughly replicate what I intend to do in class.
+**PLEASE NOTE:**
 
+* While I appreciate the desire to hurry things along please DON'T speed up the printer through the 'tuning' menu. We're hoping that these printers have a long life and pushing their operating parameters has risks for their longevity.
 
+* **NO BRIMS TODAY!!** Because of the way articulated objects are constructed they tend to adhere well to the build plate and the brims just add friction and little bits of plastic that we have to break off to allow them to flex.
 
-### Asynchronus Version of 
+### Design: Reverse Engineering
+
+You will have plenty of time to consider how these flexible objects are constructed. Typically the creators of these objects do not share the CAD file (although sometimes they do) so it's not always clear how the models are created. Because you can move up and down through the stack of slices on Slicer you should be able to visualize how the creator did it. This is one deliverable for the lab. NO: You are NOT being asked to create a Fusion model of the articulating structure -- sketch and describe only.
 
 
 

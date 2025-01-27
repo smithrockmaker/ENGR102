@@ -118,7 +118,7 @@ Import provided .stl file to Prusa Slicer, scale the print, choose characteristi
 
 **Unresolved:** 
 
-### Week 3: MLK Holiday, Jan 20
+### Week 3: MLK Holiday, Jan 22
 
 **Class Topic(s):** 
 
@@ -170,49 +170,15 @@ Print exposed infill to experience the different choices.
 
 **Day 1:** dschool design process and tools (Silicon Valley)
 
-**Day 2:** Engineering Drawing: Why/How
+**Day 2:** 
 
 **Outcomes:** 
-
-* Articulate the Role of Design in Engineering
-
-* Experience an abreviated version of the Design Thinking (dschool) model
-
-* Observe how engineering/shop drawings are generated from Fusion models
 
 **CAD Learning**
 
-This week starts 'out of order' so we can start using engineering/shop drawings to communicate what we are creating.
-
-Day 29 from Kevin: This goes through the basics of creating a 2D drawing (engineering or shop drawing) from your Day 1 'Lego' Brick. This is out of order but will help us with our class work. 
-
-[Learn Fusion 360 in 30 Days: Day 29](https://www.youtube.com/watch?v=NweBvuVYuQo)
-
-Day 4 from Kevin explores using the lofting tools to create a bottle. 
-
-[Learn Fusion 360 in 30 Days: Day 4](https://www.youtube.com/watch?v=9Y-3W-Pr64U)
-
-Day 5 reviews some of the patterning processes along with other processes through designing an ice cube tray.
-
-[Learn Fusion 360 in 30 Days:Day 5](https://www.youtube.com/watch?v=zN44hW9zX1I)
-
-**CAD Deliverables**
-
-Create specified electrical box to demonstrate your growing skills. [Fusion Skills 3](https://github.com/smithrockmaker/ENGR102/blob/main/Fusion360/Skills/FusionSkills3.md)
-
 **Lab: 3D Print** 
 
-Print an articulated object created by someone else. Reverse engineer the articulation design from the slicer information. [Lab 4: Guide](https://github.com/smithrockmaker/ENGR102/blob/main/3DPrinters/LabGuides/3DLab4.md)
-
-**Outcomes:** 
-
-* Review skills from previous weeks
-
-* Print an articulated object. There are a number of options.
-
-* From the Slicer representation reverse engineer the articulating mechanism embedded in the print.
-
-* Reflect on your personal reverse engineering skills
+Print simple lego brick from your own CAD design and test for fit
 
 **Unresolved:** 
 

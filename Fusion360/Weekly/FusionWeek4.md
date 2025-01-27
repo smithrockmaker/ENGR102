@@ -25,4 +25,4 @@ Day 5 reviews some of the patterning processes along with other processes throug
 **CAD Deliverables**
 
 Create specified electrical box to demonstrate your growing skills.
-[Fusion Skills 3:](https://github.com/smithrockmaker/ENGR102/blob/main/Fusion360/Skills/FusionSkills3.md) The skills assessment for this week is focused on creating and dimensioning sketches. I feel like the checklist I created for an earlier Fusion Skills Assessment is a little superflous so I am dropping them unless you convince me it is valuable.
+[Fusion Skills 3:](https://github.com/smithrockmaker/ENGR102/blob/main/Fusion360/Skills/FusionSkills3.md) The skills assessment for this week is focused on using various tools (shells, construction planes, chamfers) along with sketches and extrusions to create a model of a single gang electrical box. I feel like the checklist I created for an earlier Fusion Skills Assessments is a little superflous so I am dropping them unless you convince me it is valuable.
