@@ -1,6 +1,16 @@
 ## Kevin Kennedy
 
-### Notes from Day 7,8,9
+### Notes from Day 6,7,8
+
+[Day 6](https://www.youtube.com/watch?v=DfAfxae8aRc&list=PLrZ2zKOtC_-C4rWfapgngoe9o2-ng8ZBr&index=7)
+
+**Hex Nut:**
+
+Noticed as this video started that Kevins description of the various planes and axes in his system are rotated from the default settings for my system. This led to a confusion at the chamfer step that took some time to clarify in my own mind.
+
+Also started smoothly but ran into issues creating the sketch to revolve to create the chamfer on the nut. After some fussing and figuring out a more complicated way of replicating what Kevin did I realized that my problem was related to the axis orientation comment from before. The 'back' plane of the origin system (X-Y in my system) cuts through the center of the nut. If I turn off the body and select that 'back' plane to sketch on than everything works. I had been sketching on one of the nut faces which was NOT working.
+
+Everything else went well.
 
 [Day 7](https://www.youtube.com/watch?v=Mv54UfwYYos&list=PLrZ2zKOtC_-C4rWfapgngoe9o2-ng8ZBr&index=8)
 
@@ -18,7 +28,6 @@ Because Kevin is not showing the whole drop down list of the bodies and sketches
 
 Finally -- took about an hour for me to do this one and sort out my mistakes.
 
-
 [Day 8](https://www.youtube.com/watch?v=Mv54UfwYYos&list=PLrZ2zKOtC_-C4rWfapgngoe9o2-ng8ZBr&index=9)
 
 **Door Stop:**
@@ -27,16 +36,6 @@ Draft command seems quite useful. Also interesting to create an object from bodi
 
 This tutorial went a bit smoother than the previous one. Nothing that seemed to work totally differently than Kevin was presenting.
 
-I'm finding that it helps to wrtie down various dimensions so that I can more smoothly implement my version of the tutorial without having to constantly refer back to the video.
+I'm finding that it helps to write down various dimensions so that I can more smoothly implement my version of the tutorial without having to constantly refer back to the video.
 
-[Day 9](https://www.youtube.com/watch?v=Mv54UfwYYos&list=PLrZ2zKOtC_-C4rWfapgngoe9o2-ng8ZBr&index=10)
 
-**LED Bulb:**
-
-Kevin has a preference set (that wasn't set in my preferences) that projects various lines automatically. Go to Preferences (under your avatar in top right) and then General>Design and near the top of the page is an option to 'Auto project edges on reference'. Select that and click OK. This will give you the reference lines that show up in Kevin's video.
-
-Creating the various shapes and even threads feels more and more comfortable. Apply appearances to various parts of a model is really aggravating. 
-
-I am also a bit aggravated about the location of the rotation center for the object. Kevin's works a little differently which sometimes makes it hard for me to find the same surfaces. I'll bet there is a preference someplace that I don't know about. 
-
-Otherwise....good.

@@ -1,4 +1,4 @@
-## Week 4 Content
+## Week 5 Content
 
 General plan is engineering documentation, extrusions for Fusion, and generating gcode from .stl files for lab.
 
@@ -6,21 +6,30 @@ General plan is engineering documentation, extrusions for Fusion, and generating
 
 ### Engineering Design:
 
-So, what is design? Before we can explore various approaches to design it seems appropriate to have a working definition of the concept. [RISD (Rhode Island School of Design)](https://www.risd.edu/) is one of the premier design schools in this country. Here is their [description of design](http://id.risd.edu/undergraduate-program-information) from their website. (In the event this webpage should disappear here is a rough version as a [Word doc](https://github.com/smithrockmaker/ENGR102/blob/main/documents/DesignDocs/MissionRISD.doc))
-
-We will lightly review the main headers in this definition since it is a very inclusive definition that is worth appreciating.
-
-Engineering sounds like a relatively singular thing but as you are discovering it encompasses as huge range of subjects. It will be no surprise that there are a host of design processes that occur across the industry. What I hope to explore with you are some implementations of engineering design that you may run into or find value in. The examples presented in this class are just a taste.
-
-### Silicon Valley/dschool
-
-One version of engineering design, or just design, is implemented by the [dschool](https://dschool.stanford.edu/) at [Stanford University](https://www.stanford.edu/). Stanford is at the heart of Silicon Valley and this design process very common across the world of tech startups that have their roots in Silicon Valley. [This talk from TED](https://www.ted.com/talks/tony_fadell_the_first_secret_of_design_is_noticing) exemplifies this design process. The following graphic summarizes the process.
+As we introduce a different design system lets keep the 'Silicon Valley' model in the back of our minds.
 
 <img src="../images/contentImages/dschoolDesignThinking.jpg" />
 
-In some sense you are probably familiar with this process since it is deeply embedded in our educational system of the last 20 years. If you want to dig deeper later here is a [pdf with a more complete description](https://github.com/smithrockmaker/ENGR102/blob/main/documents/DesignDocs/DSchoolBootcamp.pdf). We will talk this through before doing a very abbreviated exercise.
+### Design for the World: D-Lab/MIT
 
-It is relevant to note that this process has become a standalone business with lots of folks selling 3-5 day workshops that intend to solve various design challenges for other businesses.
+In this country and the rest of the developed world we tend to experience engineering through the technological solutions and products it creates for our lives. We, however, are not particularly typical of how most folks in the world live. Just for reference here is the world map of the Human Development Index for all the countries in the world.
+
+<img src="../images/contentImages/WorldHDI.png" />
+
+There are many things we could talk about in this image bur for today I want to just note that in spite of the visual appearance only about 20% of the globe (about 1.5 billion people) has a lived experience that is reasonably close to ours. China is almost part of that group and when it reaches the same stage in the next couple of years the percentage of those living at the highest level will double given that the population of China is about 1.5 billion. 
+
+Amy Smith created the [D-lab at MIT](https://d-lab.mit.edu/) to teach all of us how engineering can improve the lives of those who do NOT live in what is called the developed world. As the mission of the D-Lab says - 'designing for a more equitable world'.
+
+I first cross paths with Amy Smith through [her TED talk](https://www.ted.com/talks/amy_smith_simple_designs_to_save_a_life) in 2006. At this point she had just started the D-Lab at MIT and had recently received the MacArthur Fellowship ('genius grant'). Because our time in class is limited we will probably not watch this video in class but I encourage you to do so on your own time. She is an important voice in engineering design. This approach to engineering is sometimes associated with what is called appropriate technology.
+
+If this purpose driven form of engineering interests you many of the D-Lab courses are available through [MIT's OpenCourseWare project](https://ocw.mit.edu/search/?q=d-Lab). Here is the basic design flow as envisioned by the folks at the D-Lab.
+
+<img src="../images/contentImages/DLab/DLabDesignProcessGraphic.png" />
+
+We'll talk about similarities and potential differences from our previous design flow.
+
+To dig into this deeper the following links are the D-Lab Design Packet and the D-Lab Design Class notes. I found both made great reading.
+
 
 ### Design Exercise:
 

@@ -28,7 +28,6 @@ Because Kevin is not showing the whole drop down list of the bodies and sketches
 
 Finally -- took about an hour for me to do this one and sort out my mistakes.
 
-
 [Day 8](https://www.youtube.com/watch?v=Mv54UfwYYos&list=PLrZ2zKOtC_-C4rWfapgngoe9o2-ng8ZBr&index=9)
 
 **Door Stop:**
@@ -37,6 +36,6 @@ Draft command seems quite useful. Also interesting to create an object from bodi
 
 This tutorial went a bit smoother than the previous one. Nothing that seemed to work totally differently than Kevin was presenting.
 
-I'm finding that it helps to wrtie down various dimensions so that I can more smoothly implement my version of the tutorial without having to constantly refer back to the video.
+I'm finding that it helps to write down various dimensions so that I can more smoothly implement my version of the tutorial without having to constantly refer back to the video.
 
 

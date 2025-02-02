@@ -220,19 +220,41 @@ Print an articulated object created by someone else. Reverse engineer the articu
 
 **Class Topic(s):** 
 
-Project Documentation expectations, Project #1: Introduce and define expectations. Design and print single? object
+Project #1: Introduce and define expectations. D-Lab design process. Print 'lego' block(s)
 
 **Day 1:** D-Lab design process and tools
 
-**Day 2:** Project documentation expectations. Project #1: Introduce an define expectations. 
+**Day 2:** Project #1: Introduce and define expectations. 
 
 **Outcomes:** 
 
+* Explore another design process (D-Lab), articulate process
+
+* Integrate Design, CAD, and Fabrication via Project 1
+
+* Iterate block design demonstrating ability to use parametric modeling effectively.
+
 **CAD Learning**
+
+The basic model of the hex nut is pretty straight forward here but be careful working with the projected information. It is easy to project onto planes to don't lead to the chamfering that is desired. (7:30)
+
+[Learn Fusion 360 in 30 Days: Day 6](https://www.youtube.com/watch?v=AfeCRrYsAys&list=PLrZ2zKOtC_-C4rWfapgngoe9o2-ng8ZBr&index=7)
+
+**WARNING:** Everyone seems to find this tutorial a bit challenging. Take your time. Some steps go by really fast and it is easy not to notice important details. Expect to spend some time here but it is worthwhile time and the next one is much simpler:) (10:00)
+
+[Learn Fusion 360 in 30 Days: Day 7](https://www.youtube.com/watch?v=Mv54UfwYYos&list=PLrZ2zKOtC_-C4rWfapgngoe9o2-ng8ZBr&index=8)
+
+This one will feel lik a relief after the previous one. Enjoy. The drafting command is clearly valuable to be aware of. (11:45)
+
+[Learn Fusion 360 in 30 Days: Day 8](https://www.youtube.com/watch?v=o5rcAv7xVUo&list=PLrZ2zKOtC_-C4rWfapgngoe9o2-ng8ZBr&index=9)
+
+**CAD Deliverables**
+
+Create an initial shop drawing from the Day 1 Toy Block lesson. Then you will go back into your model and adjust parameters to match the formal 'lego' block dimensions. Both models (save separately!!) will be printed in lab. [Fusion Skills 4:](https://github.com/smithrockmaker/ENGR102/blob/main/Fusion360/Skills/FusionSkills4.md) 
 
 **Lab: 3D Print** 
 
-Print downloaded object that requires support in some orientation. 
+You will print both versions of the toy block that you are creating for your Fusion Skills assessment this week. [Lab 5: Guide](https://github.com/smithrockmaker/ENGR102/blob/main/3DPrinters/LabGuides/3DLab5.md)
 
 **Unresolved:** 
 
