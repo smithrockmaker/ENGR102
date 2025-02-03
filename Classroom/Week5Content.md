@@ -70,7 +70,7 @@ In groups discuss how you might succeed at this assignment in your lives here in
 
 * Do you know who you would ask for a ride to school (and back) in such circumstances? They are not allowed to make a special trip for you:)
 
-* Can you (legally) salvage roadkill in Oregon? Deer, squirrels, rabbits? Do you need a permit?
+* Can you (legally) salvage roadkill in Oregon? Deer, squirrels, rabbits? Do you need a permit? [Oregon Rules for Roadkill Salvage](https://myodfw.com/articles/roadkill-salvage-permits)
 
 Amy's intention (and mine) is to get you to think about how challenging it is keep body and soul together if you have to do everything from scratch. There is almost no time for anything else for billions of people on the planet.
 
