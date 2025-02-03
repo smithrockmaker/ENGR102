@@ -224,7 +224,7 @@ Project #1: Introduce and define expectations. D-Lab design process. Print 'lego
 
 **Day 1:** D-Lab design process and tools
 
-**Day 2:** Project #1: Introduce and define expectations. 
+**Day 2:** [Project #1:](https://github.com/smithrockmaker/ENGR102/blob/main/Projects/Project1/Project1Guidelines.md) Introduce and define expectations. 
 
 **Outcomes:** 
 

@@ -10,7 +10,7 @@ The basic model of the hex nut is pretty straight forward here but be careful wo
 
 [Learn Fusion 360 in 30 Days: Day 6](https://www.youtube.com/watch?v=AfeCRrYsAys&list=PLrZ2zKOtC_-C4rWfapgngoe9o2-ng8ZBr&index=7)
 
-**WARNING:** Everyone seems to find this tutorial a bit challenging. Take your time. Some steps go by really fast and it is easy not to notice important details. Expect to spend some time here but it is worthwhile time and the next one is much simpler:) (10:00)
+**WARNING:** Everyone seems to find this next tutorial a bit challenging. Take your time. Some steps go by really fast and it is easy not to notice important details. Expect to spend some time here but it is worthwhile time and the next one is much simpler:) (10:00)
 
 [Learn Fusion 360 in 30 Days: Day 7](https://www.youtube.com/watch?v=Mv54UfwYYos&list=PLrZ2zKOtC_-C4rWfapgngoe9o2-ng8ZBr&index=8)
 

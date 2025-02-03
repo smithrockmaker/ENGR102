@@ -29,5 +29,3 @@ When your group completes it's print **be sure to clean up** all the plastic bit
 Reverse engineering is a real job but more importantly it's a way of learning from what others have done. What did you learn about your skills in reverse engineering as you tried to figure out how someone else created an articulating joint? How might you improve your skills at reverse engineering?
 
 Your reflection is turned in directly to Canvas.
-
-

@@ -22,88 +22,103 @@ Amy Smith created the [D-lab at MIT](https://d-lab.mit.edu/) to teach all of us 
 
 I first cross paths with Amy Smith through [her TED talk](https://www.ted.com/talks/amy_smith_simple_designs_to_save_a_life) in 2006. At this point she had just started the D-Lab at MIT and had recently received the MacArthur Fellowship ('genius grant'). Because our time in class is limited we will probably not watch this video in class but I encourage you to do so on your own time. She is an important voice in engineering design. This approach to engineering is sometimes associated with what is called appropriate technology.
 
+In the class notes (linked below) Amy clarifies the following terms which I find very useful.
+
+<blockquote> 
+<b>Invention</b> – to be the first to make or use something, the vanguard
+    
+<b>Design</b> – working out the details form and structure
+
+This is D-Lab Design, not I-Lab Invent!
+You don’t have to have an invention in order
+for it to be a design.
+
+<b>Innovation</b> - looking at something, and using it in a new way. Not
+necessarily the first to use it, but in a certain way.
+</blockquote>
+
 If this purpose driven form of engineering interests you many of the D-Lab courses are available through [MIT's OpenCourseWare project](https://ocw.mit.edu/search/?q=d-Lab). Here is the basic design flow as envisioned by the folks at the D-Lab.
 
 <img src="../images/contentImages/DLab/DLabDesignProcessGraphic.png" />
 
-We'll talk about similarities and potential differences from our previous design flow.
+We'll talk about similarities and potential differences from our previous design flow. 
 
-To dig into this deeper the following links are the D-Lab Design Packet and the D-Lab Design Class notes. I found both made great reading.
+As Amy points out in a number of places when you're trying to live on the equivalent of $1/day the economics of engineering solutions becomes a huge driver of the design solutions. A former D-Lab instructor made this statement about searching for design solutions in this environment.
 
+<img src="../images/contentImages/DLab/DLabDesignProcessQuote.png" />
 
-### Design Exercise:
+Lastly we'll chat about the Pugh Chart as a tool for evaluating how a proposed design relates to existing solutions.
 
-(form groups of 4-6)
+To dig into this deeper the following links are the D-Lab Design Packet and the D-Lab Design Class Notes. I found both made great reading.
 
-You are all aware of the traffic along Hwy 97 has been getting greater and greater. In the Bend area the average daily traffic count is between 30,000 and 50,000 in the latest Oregon data. Even north in Terrebonne that number is only cut in half to somewhere between 15,000 and 30,000 vehicles daily. This is between 20 and 40 cars every minute passing through Terrebonne. Locals are aware that taking a left onto Hwy 97 at most times during the day is a fools errand. Most visitors to Smith Rock State Park are not so clear on the concept. 
+[D-Lab Design Packet](https://github.com/smithrockmaker/ENGR102/blob/main/documents/D-Lab/DLabDesignPacket.pdf)
 
-Let's take this as a civil engineering design problem and consider possible solutions using the Design Thinking approach.  Below is a map of Terrebonne pretty much from end to end.
-
-<img src="../images/contentImages/TerrebonneMap.png" />
-
-A couple of data points you may wish to consider. The local elementary school is on B Street just off of Hwy 97 to the West (left). The junction at the North end of Terrebonne across from the Kingdom Hall feeds  Crooked River Ranch which has a population of roughly 5000 folks. On a busy day between 500 and 1000 cars take a right on Smith Rock Way to go to the park. Mostly they come back the same way.
-
-Given all that....
-
-**Empathise:** (1 min solo, 2 min consolidate, 2 min report out)
-What are the pain points for users?
-
-**Define:** (1 min solo, 2 min discuss, 2 min report out)
-What are some requirements/objectives for a design solution?
-
-**Ideate:** (1 min solo, 3 min discuss, 3-4 min report out)
-This is what you know as brainstorming. See how it feels in your group.
-
-**Prototype/Test:** (class discussion 5-10 min)
-How does one explore the various possible solutions that come from the ideation phase.
-
-If we have time we can look at [ODOT's solution](https://github.com/smithrockmaker/ENGR102/blob/main/documents/DesignDocs/TerrebonneProjectMap.pdf).
+[D-Lab Design Class Notes](https://github.com/smithrockmaker/ENGR102/blob/main/documents/D-Lab/DLabDesignClassNotes.pdf)
 
 
+### Design Exercise: $2/Day
+
+Amy has her students live on $2/day for a week (food, transportation, and entertainment) as a way to generate some empathy for folks living in less developed parts of the world. Amy does NOT include housing, net work access, or medical expenses. However, she does tell them no taking mercy food from friends or family. 
+
+* Be careful - some of those places are quite close to use here in the US. Cuba and Haiti come to mind.
+
+In groups discuss how you might succeed at this assignment in your lives here in Bend. In round numbers you need 2000 - 2500 calories (kcal) of food to keep your body running. See what you know about the following ideas:
+
+* What are the cheapest calories in the supermarket?
+
+* How would you prepare food if you didn't have access to electricity or gas?
+
+* Do you know who you would ask for a ride to school (and back) in such circumstances? They are not allowed to make a special trip for you:)
+
+* Can you (legally) salvage roadkill in Oregon? Deer, squirrels, rabbits? Do you need a permit?
+
+Amy's intention (and mine) is to get you to think about how challenging it is keep body and soul together if you have to do everything from scratch. There is almost no time for anything else for billions of people on the planet.
+
+If we have time we'll discuss causes of mortality in low income countries.
+
+<img src="../images/contentImages/DLab/lowIncomeMortality.svg" />
+
+Here's the link to [similar data for all countries and income levels.](https://www.who.int/news-room/fact-sheets/detail/the-top-10-causes-of-death)
 
 ### Day 2 (Wednesday)
 
 ### Fusion Check In:
 
-Everyone should be done with the first 3 videos from Kevin and Lars collectively. This weeks skills assessment is a version of the project Lars did.
+Everyone should have been through Kevin's tutorial on shop drawings as well as the lofting exercise (the bottle) and the ice cube tray. I expect that you are feeling a bit more comfortable with Fusion at this time.
 
 ### Fusion Skills 3
 
-This weeks Fusion Skills activity is primarily about simple extrusions. Here is the link to the activity [FusionSkills3](https://github.com/smithrockmaker/ENGR102/blob/main/Fusion360/Skills/FusionSkills3.md). We'll review it.
+This weeks Fusion Skills activity is primarily about shop drawings and modifying from the timeline. Here is the link to the activity [FusionSkills3](https://github.com/smithrockmaker/ENGR102/blob/main/Fusion360/Skills/FusionSkills4.md). We'll review it.
 
-At the end of the skills description there is a reference to [Fusion Screenshot Expectations](https://github.com/smithrockmaker/ENGR102/blob/main/Fusion360/ScreenShotExpectations.md). We will review this document as well to help align everyone's understanding of best practices for this class.
+For this skills assessment you are turning in the pdf's (exported) of the shop drawings from your two versions of the toy block.
 
-### Fusion Classroom Activity: Engineering Drawings
+### Project #1: 
 
-**Notes for Bruce**
+For the next couple of weeks you will be working on your first design project for this class. We will discuss these guidelines in class. I have an example from my own recent work that may be helpful.
 
-* Have Fusion up and running ahead of class
+[Project #1 Guidelines:](https://github.com/smithrockmaker/ENGR102/blob/main/Projects/Project1/Project1Guidelines.md)
   
-* Load up toy block and demonstrate the basic tools needed from the Day 29 tutorial
+### Supervised Printing: (possibly)
 
-* Export pdf to illustrate generating this document for submission to Canvas
-
-
+I may have a model for supporting supervised printing when we are not in lab. This is tentative.
 
 ### When we get to Lab:
 
 While some groups are working with the printers the rest of the groups will be continuing to explore and develop their Fusion skills including executing current and past Fusion Skills Assessments.
 
-### Lab Prep: Articulated Objects
+### Lab Prep: Toy Blocks
 
-The purpose of this weeks lab prints is to explore how folks make print in place flexible objects. One way of describing such objects is that they are articulated. All of the objects that I have provide take in the range of 60 min to print so getting the print going, and handing the printer off to the next group, will be important in completing the task.
-
-Now that you, in principle, know how to safely use the 3D printers and understand the workflow from downloading an .stl file to loading the G-Code onto the printer I will be giving much less explicit directions about the process. Please refer to past lab notes if you are uncertain.
+The purpose of this weeks lab prints see how well our models of toy blocks ('lego blocks) are doing. You will print out at least one of each while working on other things.
 
 **PLEASE NOTE:**
 
 * While I appreciate the desire to hurry things along please DON'T speed up the printer through the 'tuning' menu. We're hoping that these printers have a long life and pushing their operating parameters has risks for their longevity.
 
-* **NO BRIMS TODAY!!** Because of the way articulated objects are constructed they tend to adhere well to the build plate and the brims just add friction and little bits of plastic that we have to break off to allow them to flex.
+**Brims Today!** In the typical orientations for printing the toy blocks there is not a lot of surface area on the build plate. This suggests that brims are a prudent choice.
 
-### Design: Reverse Engineering
+### Design: Engineering Assessment
 
-You will have plenty of time to consider how these flexible objects are constructed. Typically the creators of these objects do not share the CAD file (although sometimes they do) so it's not always clear how the models are created. Because you can move up and down through the stack of slices on Slicer you should be able to visualize how the creator did it. This is one deliverable for the lab. NO: You are NOT being asked to create a Fusion model of the articulating structure -- sketch and describe only.
+With any luck I will have some actual Lego bricks for you to test your printed models against.
 
 
 
