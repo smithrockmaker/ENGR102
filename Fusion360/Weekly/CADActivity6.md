@@ -2,7 +2,7 @@
 
 ### Notes from Day 9,10
 
-[Day 9](https://www.youtube.com/watch?v=Mv54UfwYYos&list=PLrZ2zKOtC_-C4rWfapgngoe9o2-ng8ZBr&index=10)
+[Day 9](https://www.youtube.com/watch?v=2YaMulL4dZY) 7:24
 
 **LED Bulb:**
 
@@ -14,7 +14,7 @@ I am also a bit aggravated about the location of the rotation center for the obj
 
 Otherwise....good.
 
-[Day 10](https://www.youtube.com/watch?v=Mv54UfwYYos&list=PLrZ2zKOtC_-C4rWfapgngoe9o2-ng8ZBr&index=11) 8:25
+[Day 10](https://www.youtube.com/watch?v=BUH3WiUjMXw) 8:25
 
 **Phone Case:**
 

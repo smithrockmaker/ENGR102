@@ -236,16 +236,18 @@ Project #1: Introduce and define expectations. D-Lab design process. Print 'lego
 
 **CAD Learning**
 
-The basic model of the hex nut is pretty straight forward here but be careful working with the projected information. It is easy to project onto planes to don't lead to the chamfering that is desired. (7:30)
+**Hex Nut:** The basic model of the hex nut is pretty straight forward here but be careful working with the projected information. It is easy to project onto planes to don't lead to the chamfering that is desired. (7:30)
 
 [Learn Fusion 360 in 30 Days: Day 6](https://www.youtube.com/watch?v=AfeCRrYsAys&list=PLrZ2zKOtC_-C4rWfapgngoe9o2-ng8ZBr&index=7)
 
-**WARNING:** Everyone seems to find this tutorial a bit challenging. Take your time. Some steps go by really fast and it is easy not to notice important details. Expect to spend some time here but it is worthwhile time and the next one is much simpler:) (10:00)
+**WARNING:** 
+
+**Handlebar Grip:** Everyone seems to find this tutorial a bit challenging. Take your time. Some steps go by really fast and it is easy not to notice important details. Expect to spend some time here but it is worthwhile time and the next one is much simpler:) (10:00)
 
 [Learn Fusion 360 in 30 Days: Day 7](https://www.youtube.com/watch?v=Mv54UfwYYos&list=PLrZ2zKOtC_-C4rWfapgngoe9o2-ng8ZBr&index=8)
 
-This one will feel lik a relief after the previous one. Enjoy. The drafting command is clearly valuable to be aware of. (11:45)
-
+**Door Stop:** This one will feel lik a relief after the previous one. Enjoy. The drafting command is clearly valuable to be aware of. (11:45)
+ 
 [Learn Fusion 360 in 30 Days: Day 8](https://www.youtube.com/watch?v=o5rcAv7xVUo&list=PLrZ2zKOtC_-C4rWfapgngoe9o2-ng8ZBr&index=9)
 
 **CAD Deliverables**
@@ -260,15 +262,43 @@ You will print both versions of the toy block that you are creating for your Fus
 
 ### Week 6: Feb 10
 
-**Class Topic(s):**  
+**Class Topic(s):** 
 
-**Day 1:** NASA design processes and tools. Maybe Cubesat as well?
+Systems Engineering and Standards
 
-**Day 2:** 
+**Day 1:** Systems Engineering and Standards with examples from NASA, Cubesat, and OpenBadges.
+
+**Day 2:** Questions and explorations of student questions around Project #1.
 
 **Outcomes:** 
 
+* Explain the fundamental differences between Systems Engineering and product engineering.
+
+* Be able to articulate clear reasons for and examples of the value of industry standards(ASME, ISO, etc).
+
+* Offer thoughtful commentary on the spectrum from object design to integrated system design.
+
 **CAD Learning** 
+
+Continue with Fusion 360 in 30 Days but no new skills assessment this week. Week 6 breather.
+
+There are only two tutorials in this weeks assignment because the second one (phone case) everybody finds pretty challenging. It will be worth the time and effort to stick with it as best you can even if you're a little fuzzy at the end.
+
+**LED Bulb:** This one works pretty well though some of the appearance stuff I found frustrating again
+
+[Learn Fusion 360 in 30 Days: Day 9](https://www.youtube.com/watch?v=2YaMulL4dZY) 7:24
+
+**WARNING:** Everyone seems to find this next tutorial a bit challenging. Take your time. Some steps go by really fast and it is easy not to notice important details. Expect to spend some time here but it is worthwhile time and the next one is much simpler:) (10:00)
+
+**Phone Case:**
+
+[Learn Fusion 360 in 30 Days: Day 10](https://www.youtube.com/watch?v=BUH3WiUjMXw) 8:25
+
+**[Bruce's Notes:](https://github.com/smithrockmaker/ENGR102/blob/main/Fusion360/Weekly/CADActivity6.md)**
+
+**CAD Deliverables**
+
+No CAD deliverables this week as you begin work on your [Project #1](https://github.com/smithrockmaker/ENGR102/blob/main/Projects/Project1/Project1Guidelines.md)
 
 **Lab: 3D Print**  
 

@@ -88,7 +88,7 @@ Everyone should have been through Kevin's tutorial on shop drawings as well as t
 
 ### Fusion Skills 3
 
-This weeks Fusion Skills activity is primarily about shop drawings and modifying from the timeline. Here is the link to the activity [FusionSkills3](https://github.com/smithrockmaker/ENGR102/blob/main/Fusion360/Skills/FusionSkills4.md). We'll review it.
+This weeks Fusion Skills activity is primarily about shop drawings and modifying from the timeline. Here is the link to the activity [FusionSkills4](https://github.com/smithrockmaker/ENGR102/blob/main/Fusion360/Skills/FusionSkills4.md). We'll review it.
 
 For this skills assessment you are turning in the pdf's (exported) of the shop drawings from your two versions of the toy block.
 

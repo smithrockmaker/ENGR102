@@ -1,28 +1,26 @@
-## CAD/Fusion Week 4
+## CAD/Fusion Week 5
 
 **Topic:** 
 
-From here on out we'll mostly focus on Kevin Kennedy's tutorials. Just to mess things up this week I'm suggesting that we do one of them out of order so we can develop a tool we need for the course. Being able to create engineering/shop drawings from our models is a useful tool for communicating.  
+Back in order with Kevin Kennedy's tutorials.   
 
 **CAD Learning**
 
-We're going to
+The basic model of the hex nut is pretty straight forward here but be careful working with the projected information. It is easy to project onto planes to don't lead to the chamfering that is desired. (7:30)
 
-Day 29 from Kevin: This goes through the basics of creating a 2D drawing (engineering or shop drawing) from your Day 1 'Lego' Brick. This is out of order but will help us with our class work. 
+[Learn Fusion 360 in 30 Days: Day 6](https://www.youtube.com/watch?v=AfeCRrYsAys&list=PLrZ2zKOtC_-C4rWfapgngoe9o2-ng8ZBr&index=7)
 
-[Learn Fusion 360 in 30 Days: Day 29](https://www.youtube.com/watch?v=NweBvuVYuQo)
+**WARNING:** Everyone seems to find this next tutorial a bit challenging. Take your time. Some steps go by really fast and it is easy not to notice important details. Expect to spend some time here but it is worthwhile time and the next one is much simpler:) (10:00)
 
-Day 4 from Kevin explores using the lofting tools to create a bottle. 
+[Learn Fusion 360 in 30 Days: Day 7](https://www.youtube.com/watch?v=Mv54UfwYYos&list=PLrZ2zKOtC_-C4rWfapgngoe9o2-ng8ZBr&index=8)
 
-[Learn Fusion 360 in 30 Days: Day 4](https://www.youtube.com/watch?v=9Y-3W-Pr64U)
+This one will feel lik a relief after the previous one. Enjoy. The drafting command is clearly valuable to be aware of. (11:45)
 
-Day 5 reviews some of the patterning processes along with other processes through designing an ice cube tray.
+[Learn Fusion 360 in 30 Days: Day 8](https://www.youtube.com/watch?v=o5rcAv7xVUo&list=PLrZ2zKOtC_-C4rWfapgngoe9o2-ng8ZBr&index=9)
 
-[Learn Fusion 360 in 30 Days:Day 5](https://www.youtube.com/watch?v=zN44hW9zX1I)
 
-**[Bruce's Notes:](https://github.com/smithrockmaker/ENGR102/blob/main/Fusion360/Weekly/CADActivity4.md)**
+**[Bruce's Notes:](https://github.com/smithrockmaker/ENGR102/blob/main/Fusion360/Weekly/CADActivity5.md)**
 
 **CAD Deliverables**
 
-Create specified electrical box to demonstrate your growing skills.
-[Fusion Skills 3:](https://github.com/smithrockmaker/ENGR102/blob/main/Fusion360/Skills/FusionSkills3.md) The skills assessment for this week is focused on using various tools (shells, construction planes, chamfers) along with sketches and extrusions to create a model of a single gang electrical box. I feel like the checklist I created for an earlier Fusion Skills Assessments is a little superflous so I am dropping them unless you convince me it is valuable.
+Create an initial shop drawing from the Day 1 Toy Block lesson. Then you will go back into your model and adjust parameters to match the formal 'lego' block dimensions. Both models (save separately!!) will be printed in lab. [Fusion Skills 4:](https://github.com/smithrockmaker/ENGR102/blob/main/Fusion360/Skills/FusionSkills4.md) 
