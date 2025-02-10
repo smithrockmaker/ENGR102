@@ -99,7 +99,7 @@ Day 5 reviews some of the patterning processes along with other processes throug
 **CAD Deliverables**
 
 Create specified electrical box to demonstrate your growing skills.
-[Fusion Skills 3:](https://github.com/smithrockmaker/ENGR102/blob/main/Fusion360/Skills/FusionSkills3.md) The skills assessment for this week is focused on creating and dimensioning sketches. [This checklist](https://github.com/smithrockmaker/ENGR102/blob/main/Fusion360/Skills/Checklists/FusionSkills3Checklist.docx) will verify successful demonstration of the skills to your instructor.
+[Fusion Skills 3:](https://github.com/smithrockmaker/ENGR102/blob/main/Fusion360/Skills/FusionSkills3.md) The skills assessment for this week is focused on creating and dimensioning sketches. I feel like the checklist I created for an earlier Fusion Skills Assessment is a little superflous so I am dropping them unless you convince me it is valuable.
 
 **Unresolved:** 
 
@@ -109,29 +109,52 @@ Create specified electrical box to demonstrate your growing skills.
 
 **Topic:** 
 
-Generating stl and gcode
+Back in order with Kevin Kennedy's tutorials.   
 
-**Outcomes:** 
+**CAD Learning**
 
-**Class:** 
+The basic model of the hex nut is pretty straight forward here but be careful working with the projected information. It is easy to project onto planes to don't lead to the chamfering that is desired. (7:30)
 
-**Lab:** 
+[Learn Fusion 360 in 30 Days: Day 6](https://www.youtube.com/watch?v=AfeCRrYsAys&list=PLrZ2zKOtC_-C4rWfapgngoe9o2-ng8ZBr&index=7)
 
-**Unresolved:** 
+**WARNING:** Everyone seems to find this next tutorial a bit challenging. Take your time. Some steps go by really fast and it is easy not to notice important details. Expect to spend some time here but it is worthwhile time and the next one is much simpler:) (10:00)
 
+[Learn Fusion 360 in 30 Days: Day 7](https://www.youtube.com/watch?v=Mv54UfwYYos&list=PLrZ2zKOtC_-C4rWfapgngoe9o2-ng8ZBr&index=8)
+
+This one will feel lik a relief after the previous one. Enjoy. The drafting command is clearly valuable to be aware of. (11:45)
+
+[Learn Fusion 360 in 30 Days: Day 8](https://www.youtube.com/watch?v=o5rcAv7xVUo&list=PLrZ2zKOtC_-C4rWfapgngoe9o2-ng8ZBr&index=9)
+
+
+**[Bruce's Notes:](https://github.com/smithrockmaker/ENGR102/blob/main/Fusion360/Weekly/CADActivity5.md)**
+
+**CAD Deliverables**
+
+Create an initial shop drawing from the Day 1 Toy Block lesson. Then you will go back into your model and adjust parameters to match the formal 'lego' block dimensions. Both models (save separately!!) will be printed in lab. [Fusion Skills 4:](https://github.com/smithrockmaker/ENGR102/blob/main/Fusion360/Skills/FusionSkills4.md) 
 ### Week 6:
 
 **Topic:** 
 
-Catch up week
+There are only two tutorials in this weeks assignment because the second one (phone case) everybody finds pretty challenging. It will be worth the time and effort to stick with it as best you can even if you're a little fuzzy at the end.  
 
-**Outcomes:** 
+**CAD Learning**
 
-**Class:** 
+**LED Bulb:** This one works pretty well though some of the appearance stuff I found frustrating againn
 
-**Lab:** 
+[Learn Fusion 360 in 30 Days: Day 9](https://www.youtube.com/watch?v=2YaMulL4dZY) 7:24
 
-**Unresolved:** 
+**WARNING:** Everyone seems to find this next tutorial a bit challenging. Take your time. Some steps go by really fast and it is easy not to notice important details. Expect to spend some time here but it is worthwhile time and the next one is much simpler:) (10:00)
+
+**Phone Case:**
+
+[Learn Fusion 360 in 30 Days: Day 10](https://www.youtube.com/watch?v=BUH3WiUjMXw) 8:25
+
+
+**[Bruce's Notes:](https://github.com/smithrockmaker/ENGR102/blob/main/Fusion360/Weekly/CADActivity6.md)**
+
+**CAD Deliverables**
+
+No CAD deliverables this week as you begin work on your Project #1
 
 ### Week 7:
 

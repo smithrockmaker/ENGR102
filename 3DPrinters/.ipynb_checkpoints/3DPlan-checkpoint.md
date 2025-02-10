@@ -73,13 +73,23 @@ Import provided .stl file to Prusa Slicer, choose characteristics, and print. Ob
 
 **Topic:** 
 
-3D printer performance assessment.
+Modification of printer settings in Prusa Slicer to expose infill patterns
 
 **Outcomes:** 
 
-**Class:** 
+* Review skills from previous weeks
 
-**Lab:** 
+* Adjust specific printer settings in Prusa Slicer to expose infill patterns
+
+* Examine and assess infill patterns relative to engineering characteristics (reference document)
+
+**Class/Lab Prep:** 
+
+Demonstrate the relevant printer settings that need to be modified. Thoughtful organizing of setting profiles also emphasized. 
+
+**Lab: 3D Print**  
+
+Print exposed infill to experience the different choices. Import provided .stl file to Prusa Slicer, choose characteristics, and print. Observe and describe features of resulting print. Lab details in the [3DLab3](https://github.com/smithrockmaker/ENGR102/blob/main/3DPrinters/LabGuides/3DLab3.md) markdown file. Worksheets noted in this file will be provided at lab but are linked for reference.
 
 **Unresolved:** 
 
@@ -87,11 +97,23 @@ Import provided .stl file to Prusa Slicer, choose characteristics, and print. Ob
 
 **Topic:** 
 
+Print an articulated object reviewing previously developed process skills. Explore reverse engineering skills.
+
 **Outcomes:** 
 
-**Class:** 
+* Review skills from previous weeks
 
-**Lab:** 
+* Print an articulated object. There are a number of options.
+
+* From the Slicer representation reverse engineer the articulating mechanism embedded in the print.
+
+* Reflect on your personal reverse engineering skills
+
+**Class:** All in Lab
+
+**Lab: 3D Print** 
+
+Print an articulated object created by someone else. Reverse engineer the articulation design from the slicer information. [Lab 4: Guide](https://github.com/smithrockmaker/ENGR102/blob/main/3DPrinters/LabGuides/3DLab4.md)
 
 **Unresolved:** 
 
@@ -99,25 +121,27 @@ Import provided .stl file to Prusa Slicer, choose characteristics, and print. Ob
 
 **Topic:** 
 
+Print an articulated object reviewing previously developed process skills. Explore reverse engineering skills.
+
 **Outcomes:** 
 
-**Class:** 
+* Use shop drawings to track fabrication details of original toy block and the 'updated' toy block.
 
-**Lab:** 
+* Set up and print both blocks and test fit with real 'lego bricks'.
 
-**Unresolved:** 
+* Reflect on the engineering characteristics of the two printed toy blocks.
+
+**Class:** All in Lab
+
+**Lab: 3D Print** 
+
+Print two versions of the toy block and assess their engineering performance against a real 'lego brick'. [Lab 4: Guide](https://github.com/smithrockmaker/ENGR102/blob/main/3DPrinters/LabGuides/3DLab5.md)
 
 ### Week 6:
 
 **Topic:** 
 
-**Outcomes:** 
-
-**Class:** 
-
-**Lab:** 
-
-**Unresolved:** 
+This week is a breather and a chance to access printers for test prints for your project.
 
 ### Week 7:
 
