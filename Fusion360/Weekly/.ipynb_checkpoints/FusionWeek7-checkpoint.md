@@ -1,24 +1,26 @@
-## CAD/Fusion Week 6
+## CAD/Fusion Week 7
 
 **Topic:** 
 
-There are only two tutorials in this weeks assignment because the second one (phone case) everybody finds pretty challenging. It will be worth the time and effort to stick with it as best you can even if you're a little fuzzy at the end.  
+This week should feel pretty good in the sense that many of the tasks that Kevin is going over are variations on past lessons. I hope you find these more satisfying after the challenge of the Phone Case.  
 
 **CAD Learning**
 
-**LED Bulb:** This one works pretty well though some of the appearance stuff I found frustrating againn
+**Dog Bowl:**
 
-[Learn Fusion 360 in 30 Days: Day 9](https://www.youtube.com/watch?v=2YaMulL4dZY) 7:24
+[Learn Fusion 360 in 30 Days: Day 11](https://www.youtube.com/watch?v=YsXaCmKEV-g) 8:00
 
-**WARNING:** Everyone seems to find this next tutorial a bit challenging. Take your time. Some steps go by really fast and it is easy not to notice important details. Expect to spend some time here but it is worthwhile time and the next one is much simpler:) (10:00)
+**Custom Helix:**
 
-**Phone Case:**
+[Learn Fusion 360 in 30 Days: Day 12](https://www.youtube.com/watch?v=r3I9bg-dm2k) 8:00
 
-[Day 10](https://www.youtube.com/watch?v=BUH3WiUjMXw) 8:25
+**Assemblies:**
 
+[Learn Fusion 360 in 30 Days: Day 13](https://www.youtube.com/watch?v=r3I9bg-dm2k) 11:20
 
-**[Bruce's Notes:](https://github.com/smithrockmaker/ENGR102/blob/main/Fusion360/Weekly/CADActivity6.md)**
+**[Bruce's Notes:](https://github.com/smithrockmaker/ENGR102/blob/main/Fusion360/Weekly/CADActivity7.md)**
 
 **CAD Deliverables**
 
-No CAD deliverables this week as you begin work on your Project #1
+Create a Fusion model of a chess piece (the rook) according to specifications.
+[Fusion Skills 5:](https://github.com/smithrockmaker/ENGR102/blob/main/Fusion360/Skills/FusionSkills5.md) The skills assessment for this week is focused on using the revolve tool, circular patterning, basic extrusions, and the pipe tool.

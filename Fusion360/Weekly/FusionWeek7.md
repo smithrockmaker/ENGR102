@@ -22,4 +22,5 @@ This week should feel pretty good in the sense that many of the tasks that Kevin
 
 **CAD Deliverables**
 
-Not determined yet.
+Create a Fusion model of a chess piece (the rook) according to specifications.
+[Fusion Skills 5:](https://github.com/smithrockmaker/ENGR102/blob/main/Fusion360/Skills/FusionSkills5.md) The skills assessment for this week is focused on using the revolve tool, circular patterning, basic extrusions, and the pipe tool.

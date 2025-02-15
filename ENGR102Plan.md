@@ -312,9 +312,9 @@ Project #1: Time on Task
 
 Project #2: Design and print two objects that interlock or interact in some way that requires understanding clearances.
 
-**Day 1:** SpaceX 5 Step Design Process
+**Day 1:** 5 Step Design Process (Musk)
 
-**Day 2:** 
+**Day 2:** Fusion/Project Questions. Time on Printers in Lab
 
 **Outcomes:** 
 
@@ -340,7 +340,7 @@ Project #1: Wrap up
 
 **Lab: 3D Print** 
 
-Project #2: Time on task
+compliant object and Project #2: Time on task
 
 **Unresolved:** 
 
