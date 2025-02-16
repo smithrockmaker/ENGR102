@@ -310,7 +310,7 @@ Project #1: Time on Task
 
 **Class Topic(s):** 
 
-Project #2: Design and print two objects that interlock or interact in some way that requires understanding clearances.
+5 Steps Engineering process (Space X, Tesla). Wrapping up Project #1 while moving forward with Fusion skills development.
 
 **Day 1:** 5 Step Design Process (Musk)
 
@@ -318,7 +318,32 @@ Project #2: Design and print two objects that interlock or interact in some way 
 
 **Outcomes:** 
 
+* Explain the 5 steps of the Space X and Tesla engineering design process.
+
+* How are these steps the same or different from previous engineering design processes we have discussed.
+
+* Articulate the differences between vertical and horizontal integration in engineering manufacturing.
+
 **CAD Learning**
+
+**Dog Bowl:**
+
+[Learn Fusion 360 in 30 Days: Day 11](https://www.youtube.com/watch?v=YsXaCmKEV-g) 8:00
+
+**Custom Helix:**
+
+[Learn Fusion 360 in 30 Days: Day 12](https://www.youtube.com/watch?v=r3I9bg-dm2k) 8:00
+
+**Assemblies:**
+
+[Learn Fusion 360 in 30 Days: Day 13](https://www.youtube.com/watch?v=r3I9bg-dm2k) 11:20
+
+**[Bruce's Notes:](https://github.com/smithrockmaker/ENGR102/blob/main/Fusion360/Weekly/CADActivity7.md)**
+
+**CAD Deliverables**
+
+Create a Fusion model of a chess piece (the rook) according to specifications.
+[Fusion Skills 5:](https://github.com/smithrockmaker/ENGR102/blob/main/Fusion360/Skills/FusionSkills5.md) The skills assessment for this week is focused on using the revolve tool, circular patterning, basic extrusions, and the pipe tool.
 
 **Lab: 3D Print** 
 

@@ -88,25 +88,27 @@ I raise this point to be sure you recognize that any given engineering design pr
 
 ### Fusion Check In:
 
-* Are my notes useful?
+* Questions
 
 * How far behind is everyone - blind poll with hands. Lesson 8: Door Stop is target.
 
 <blockquote>
     
-  Lesson 7: Bike Handle
-    
   Lesson 6: Hex Nut
+    
+  Lesson 7: Bike Handle
   
-  Lesson 5: Ice Cube Tray
+  Lesson 8: Door Stop
   
-  Lesson 4: Lofted Bottle
+  Lesson 9: LED Bulb
   
-  Lesson 29: Shop Drawings
+  Lesson 10: Phone Case
   
 </blockquote>
 
-### Project #1: Checkin
+* Project Questions: Next week you will be getting your final project guidelines even though we have a fair amount of time until the end of the term.
+
+### Project #1: Check in
 
 [Project #1 Guidelines:](https://github.com/smithrockmaker/ENGR102/blob/main/Projects/Project1/Project1Guidelines.md)
 
