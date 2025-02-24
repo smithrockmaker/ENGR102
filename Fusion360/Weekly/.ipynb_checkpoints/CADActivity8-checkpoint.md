@@ -13,7 +13,7 @@ Everything else in this tutorial seemed to flow pretty smoothly. Sometimes the p
 
 Roughly 30 min for me to reproduce.
 
-[Learn Fusion 360 in 30 Days: Day 15]() 9:45
+[Learn Fusion 360 in 30 Days: Day 15](https://www.youtube.com/watch?v=xyctvb5ToFs) 9:45
 
 **Tripod:**
 
@@ -25,7 +25,7 @@ Good sense of the difference between 'Paste' and 'Paste New' after this tutorial
 
 Pretty quick: 25 min
 
-[Learn Fusion 360 in 30 Days: Day 16]() 7:45
+[Learn Fusion 360 in 30 Days: Day 16](https://www.youtube.com/watch?v=zjmrCvQ85nI) 7:45
 
 **Design Intent: Square Washer**
 
@@ -33,7 +33,7 @@ First part worked smoothly. After Kevin copied the washer as a new object ('Past
 
 Be sure that the new version of the washer is offset from your original washer
 
-I should note that even after getting the first washer turned off it took a while for me to get the process of disconnecting the sketch constraint and working with the circle to behave. In hindsight maybe it's more obvious but I had some frustrations here. IF you4 sketch disappears zoom out to be sure you're working on the correct component.
+I should note that even after getting the first washer turned off it took a while for me to get the process of disconnecting the sketch constraint and working with the circle to behave. In hindsight maybe it's more obvious but I had some frustrations here. IF your sketch disappears zoom out to be sure you're working on the correct component.
 
 Eventually got everything to work but it felt a bit magical. The root of my issues seemed to be about which component I was actually working on. As I finished up it became apparent I hadn't moved the new pasted body out of the way of the original washer. That was part of my problem I think this will become more clear later on. 
 

@@ -13,7 +13,7 @@ Everything else in this tutorial seemed to flow pretty smoothly. Sometimes the p
 
 Roughly 30 min for me to reproduce.
 
-[Learn Fusion 360 in 30 Days: Day 15]() 9:45
+[Learn Fusion 360 in 30 Days: Day 15](https://www.youtube.com/watch?v=xyctvb5ToFs) 9:45
 
 **Tripod:**
 
@@ -25,7 +25,7 @@ Good sense of the difference between 'Paste' and 'Paste New' after this tutorial
 
 Pretty quick: 25 min
 
-[Learn Fusion 360 in 30 Days: Day 16]() 7:45
+[Learn Fusion 360 in 30 Days: Day 16](https://www.youtube.com/watch?v=zjmrCvQ85nI) 7:45
 
 **Design Intent: Square Washer**
 

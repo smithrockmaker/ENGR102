@@ -1,41 +1,49 @@
 ## Kevin Kennedy
 
-### Notes from Day 14,15,16
+### Notes from Day 17,18,19
 
 
-[Learn Fusion 360 in 30 Days: Day 14](https://www.youtube.com/watch?v=YsXaCmKEV-g) 11:20
+[Learn Fusion 360 in 30 Days: Day 17](https://www.youtube.com/watch?v=ddtjErtTgOo) 10:00
 
-**Screw Driver Assembly:**
+**Sketch Constraints:**
 
-Right out of the gate I forgot to be careful about what the active window is when I create a component. Instead of creating a second component (shank) for the Screwdriver (Screwdriver assembly as the active element) I did it with the Handle component active. This puts the new component INSIDE the Handle component. It seems like it is not easy to move components to a new location in the file structure (the tree as it is referred to). After some looking around it appears that this is in fact a 'bug' in the system. Many folks would like to be able to drag and drop components to different locations in the tree but because of how Fusion builds the timeline and dependencies it is not currently possible. This reinforces Kevin's point in Day 13 to create your components early in the modeling process and be very careful about how you to it to maintain effective organization.
+The one real issue for me in this was accessing the Fusion file that Kevin provided. The issue is that the college's email refuses to download the link due to it's usual anxieties about network security. I have zipped the file up and made it [available on the github](https://github.com/smithrockmaker/ENGR102/blob/main/documents/FusionDocs/SketchConstraints.f3d.zip). Because it is 'zipped' the college is usually less freaked out. Hopefully it will remain readable as Fusion updates itself.
 
-Everything else in this tutorial seemed to flow pretty smoothly. Sometimes the plane for a sketch or a mirror command were a little different for me due to how my coordinate system seems to default to. Other than that felt comfortable.
+This is a great review of sketch constraints. We've used many of these already but it's helpful to see them all strung together.
 
-Roughly 30 min for me to reproduce.
+The curvature constraint is one I hadn't used before. I love the cool curvature visualization. I suspect it has meaning that I don't yet appreciate.
 
-[Learn Fusion 360 in 30 Days: Day 15]() 9:45
+Helpful to know how to display all the various sketch constraints associated with particular features. I can see using that from time to time.
 
-**Tripod:**
+20 min for me
 
-Setting the lengths of the three sides of the triangle equal to each other worked a little differently for me. Keep working it until the sketch constraints shown on your sketch match Kevin's.
+[Learn Fusion 360 in 30 Days: Day 18](https://www.youtube.com/watch?v=vr_zPVEsyjs) 8:48
 
-The circular pattern tool did give me a funky result as Kevin noted was a possibility. Changing to 'identical' made the circles the same on each face.
+**STL to Solid:**
 
-Good sense of the difference between 'Paste' and 'Paste New' after this tutorial. Not sure why I'd want to do all the patterning of the components at this point but good to know one can to that.
+The sticky note stencil, the hinged box, and the hatchet .stl files are in the github documents folder.
 
-Pretty quick: 25 min
+[stencil](). 
+[box]()
+[hatchet]()
 
-[Learn Fusion 360 in 30 Days: Day 16]() 7:45
+This is an interesting tutorial. The first part is pretty straight forward with the sticky note stencil. Helpful introduction to how this conversion process goes. 
 
-**Design Intent: Square Washer**
+Once Kevin starts talking about the hinged box and the hatchet there is are a lot of steps he glosses over (elides) in the video. It was good practice to look at his parametric timeline and see what he had done and reproduce it.
 
-First part worked smoothly. After Kevin copied the washer as a new object ('Paste New') I was having trouble getting things to happen as he did. I missed the moment when he made the first washer not visible - very important. Didn't figure this out myself but found a comment that clarified (not quite sure which user to thank but thanks anyway:)
+I'm not sure if I will use this set of techniques much in my projects but it is definitely good to know that they are there and how to do this.
 
-Be sure that the new version of the washer is offset from your original washer
+40 min for me mostly due to fussing with the hatchet:)
 
-I should note that even after getting the first washer turned off it took a while for me to get the process of disconnecting the sketch constraint and working with the circle to behave. In hindsight maybe it's more obvious but I had some frustrations here. IF your sketch disappears zoom out to be sure you're working on the correct component.
+[Learn Fusion 360 in 30 Days: Day 19](https://www.youtube.com/watch?v=DJULiA1aTtM) 7:00
 
-Eventually got everything to work but it felt a bit magical. The root of my issues seemed to be about which component I was actually working on. As I finished up it became apparent I hadn't moved the new pasted body out of the way of the original washer. That was part of my problem I think this will become more clear later on. 
+**Parameters and Joints**
 
-Good comments at the end about why keeping sketches simple and avoiding filleting at the sketch is important.
+Cool to learn about user parameters. Seems like a better workflow than constantly going back and changing sketch dimensions. 
+
+The only real issue during this video was getting the box top aligned correctly with the bottom. For Kevin he selected Joint origins that were on diagonally opposite corners. For whatever reason I had to select corners on the same edge and flip things to get the top to align with the bottom. If you don't get things to work the way Kevin did just select a different origin for the second object and see what happens. Not sure if there are preferences that are leading to these differences or Fusion version differences.
+
+Another useful note for me was getting a little more clear on managing the visibility of bodies while I'm working. If you activate the component level in the browser that all bodies in the component are shown (if each body is set to visible). At first I was activating individual bodies which makes the other body transparent. Just depends what you want to see. Helpful to understand this workflow better.
+
+20 min for me
 

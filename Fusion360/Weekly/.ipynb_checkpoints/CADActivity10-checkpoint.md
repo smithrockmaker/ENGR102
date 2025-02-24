@@ -3,7 +3,7 @@
 ### Notes from Day 17,18,19
 
 
-[Learn Fusion 360 in 30 Days: Day 17](https://www.youtube.com/watch?v=ddtjErtTgOo) 10:00
+[Learn Fusion 360 in 30 Days: Day 17](https://www.youtube.com/watch?v=YsXaCmKEV-g) 10:00
 
 **Sketch Constraints:**
 
@@ -17,7 +17,7 @@ Helpful to know how to display all the various sketch constraints associated wit
 
 20 min for me
 
-[Learn Fusion 360 in 30 Days: Day 18](https://www.youtube.com/watch?v=vr_zPVEsyjs) 8:48
+[Learn Fusion 360 in 30 Days: Day 18]() 8:48
 
 **STL to Solid:**
 
@@ -35,7 +35,7 @@ I'm not sure if I will use this set of techniques much in my projects but it is 
 
 40 min for me mostly due to fussing with the hatchet:)
 
-[Learn Fusion 360 in 30 Days: Day 19](https://www.youtube.com/watch?v=DJULiA1aTtM) 7:00
+[Learn Fusion 360 in 30 Days: Day 19]() 7:00
 
 **Parameters and Joints**
 
