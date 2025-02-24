@@ -156,6 +156,12 @@ When you need to download the Prusa Slicer software: [Prusa Slicer](https://www.
 
 [DFMEA](https://www.ansys.com/blog/what-is-dfmea)
 
+**A3 Problem Solving**
+
+[a3-problem-solving](https://kanbantool.com/kanban-guide/a3-problem-solving)
+
+[a3-problem-solving-methodology](https://www.learnleansigma.com/problem-solving/a3-problem-solving-methodology/)
+
 **DLab**
 
 **dSchool**

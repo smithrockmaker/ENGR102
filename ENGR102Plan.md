@@ -355,17 +355,41 @@ Project #1: Wrap up
 
 **Class Topic(s):** 
 
-**Day 1:** DFMEA engineering Analysis
+**Day 1:** 'Lean' Engineering/Manufacturing
 
-**Day 2:** 
+**Day 2:** Project #2 introduction/Compliant Structures in 3D printing.
 
 **Outcomes:** 
 
+* Articulate the 5 'Lean' engineering/manufacturing principles.
+
+* Explain why 'Lean' principles are relevant to engineering.
+
+* Describe several of the 8 forms of waste in 'Lean' engineering.
+
 **CAD Learning**
+
+**Screwdriver Assembly:**
+
+[Learn Fusion 360 in 30 Days: Day 14](https://www.youtube.com/watch?v=YsXaCmKEV-g) 11:20
+
+**Small Tripod:**
+
+[Learn Fusion 360 in 30 Days: Day 15](https://www.youtube.com/watch?v=xyctvb5ToFs) 9:45
+
+**Square Washer (Constraints)**
+
+[Learn Fusion 360 in 30 Days: Day 16](https://www.youtube.com/watch?v=zjmrCvQ85nI) 7:45
+
+**[Bruce's Notes:](https://github.com/smithrockmaker/ENGR102/blob/main/Fusion360/Weekly/CADActivity8.md)**
+
+**CAD Deliverables**
+
+Creating construction planes, sweeping along lines, creating new components, and making reasonable judgements about scale. [Fusion Skills 6:](https://github.com/smithrockmaker/ENGR102/blob/main/Fusion360/Skills/FusionSkills6.md) The skills assessment for this week is focused on sketching, construction planes, organizing your model, sweeping along a profile, and making appropriate judgements.
 
 **Lab: 3D Print** 
 
-compliant object and Project #2: Time on task
+Print one of the provided compliant models and assess it's function and success. [Lab 8: Guide](https://github.com/smithrockmaker/ENGR102/blob/main/3DPrinters/LabGuides/3DLab8.md)
 
 **Unresolved:** 
 
