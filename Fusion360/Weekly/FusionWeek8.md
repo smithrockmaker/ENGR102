@@ -22,5 +22,4 @@ As we move into this weeks topics with Kevin you may feel like the focus is movi
 
 **CAD Deliverables**
 
-???
-[Fusion Skills 6:](https://github.com/smithrockmaker/ENGR102/blob/main/Fusion360/Skills/FusionSkills6.md) The skills assessment for this week is focused on using the revolve tool, circular patterning, basic extrusions, and the pipe tool.
+Creating construction planes, sweeping along lines, creating new components, and making reasonable judgements about scale. [Fusion Skills 6:](https://github.com/smithrockmaker/ENGR102/blob/main/Fusion360/Skills/FusionSkills6.md) The skills assessment for this week is focused on sketching, construction planes, organizing your model, sweeping along a profile, and making appropriate judgements.

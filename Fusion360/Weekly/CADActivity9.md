@@ -23,9 +23,12 @@ Helpful to know how to display all the various sketch constraints associated wit
 
 The sticky note stencil, the hinged box, and the hatchet .stl files are in the github documents folder.
 
-[stencil](). 
-[box]()
-[hatchet]()
+[stencil](https://github.com/smithrockmaker/ENGR102/blob/main/documents/FusionDocs/Two-Column_Circles_v2.stl) 
+
+[box](https://github.com/smithrockmaker/ENGR102/blob/main/documents/FusionDocs/box_01_35x143x100.stl) 
+
+[hatchet](https://github.com/smithrockmaker/ENGR102/blob/main/documents/FusionDocs/hacha_prime.stl)
+
 
 This is an interesting tutorial. The first part is pretty straight forward with the sticky note stencil. Helpful introduction to how this conversion process goes. 
 

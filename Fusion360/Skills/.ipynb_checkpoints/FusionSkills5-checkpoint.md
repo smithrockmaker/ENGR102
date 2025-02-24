@@ -12,7 +12,7 @@ Create a closed sketch on an appropriate plane that captures the core profile of
 
 ### Task 2:
 
-Once you have the sketch revolve it around the vertical axis. This will give you the core shape of the rook. At this point all the corners should be square except for the circular profile at base of tower.
+Once you have the sketch, revolve it around the vertical axis. This will give you the core shape of the rook. At this point all the corners should be square except for the circular profile at base of tower.
 
 ### Task 3:
 

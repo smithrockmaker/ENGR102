@@ -149,7 +149,6 @@ There are only two tutorials in this weeks assignment because the second one (ph
 
 [Learn Fusion 360 in 30 Days: Day 10](https://www.youtube.com/watch?v=BUH3WiUjMXw) 8:25
 
-
 **[Bruce's Notes:](https://github.com/smithrockmaker/ENGR102/blob/main/Fusion360/Weekly/CADActivity6.md)**
 
 **CAD Deliverables**
@@ -160,27 +159,55 @@ No CAD deliverables this week as you begin work on your Project #1
 
 **Topic:** 
 
-Design project I
+This week should feel pretty good in the sense that many of the tasks that Kevin is going over are variations on past lessons. I hope you find these more satisfying after the challenge of the Phone Case.  
 
-**Outcomes:** 
+**CAD Learning**
 
-**Class:** 
+**Dog Bowl:**
 
-**Lab:** 
+[Learn Fusion 360 in 30 Days: Day 11](https://www.youtube.com/watch?v=YsXaCmKEV-g) 8:00
 
+**Custom Helix:**
+
+[Learn Fusion 360 in 30 Days: Day 12](https://www.youtube.com/watch?v=r3I9bg-dm2k) 8:00
+
+**Assemblies:**
+
+[Learn Fusion 360 in 30 Days: Day 13](https://www.youtube.com/watch?v=r3I9bg-dm2k) 11:20
+
+**[Bruce's Notes:](https://github.com/smithrockmaker/ENGR102/blob/main/Fusion360/Weekly/CADActivity7.md)**
+
+**CAD Deliverables**
+
+Create a Fusion model of a chess piece (the rook) according to specifications.
+[Fusion Skills 5:](https://github.com/smithrockmaker/ENGR102/blob/main/Fusion360/Skills/FusionSkills5.md) The skills assessment for this week is focused on using the revolve tool, circular patterning, basic extrusions, and the pipe tool.
 **Unresolved:** 
 
 ### Week 8:
 
 **Topic:** 
 
-Design Project II
+As we move into this weeks topics with Kevin you may feel like the focus is moving from basic skills and tools to broader ideas about creating models that can be easily modified or adapted in some way. Thinking of many objects of interest as assemblies of bodies that we might want to change in the future affects how we design the item. How we use various dimensions and constraints to keep some features fixed while allowing others to change. 
 
-**Outcomes:** 
+**CAD Learning**
 
-**Class:** 
+**Screwdriver Assembly:**
 
-**Lab:** 
+[Learn Fusion 360 in 30 Days: Day 14](https://www.youtube.com/watch?v=YsXaCmKEV-g) 11:20
+
+**Small Tripod:**
+
+[Learn Fusion 360 in 30 Days: Day 15](https://www.youtube.com/watch?v=xyctvb5ToFs) 9:45
+
+**Square Washer (Constraints)**
+
+[Learn Fusion 360 in 30 Days: Day 16](https://www.youtube.com/watch?v=zjmrCvQ85nI) 7:45
+
+**[Bruce's Notes:](https://github.com/smithrockmaker/ENGR102/blob/main/Fusion360/Weekly/CADActivity8.md)**
+
+**CAD Deliverables**
+
+Creating construction planes, sweeping along lines, creating new components, and making reasonable judgements about scale.[Fusion Skills 6:](https://github.com/smithrockmaker/ENGR102/blob/main/Fusion360/Skills/FusionSkills6.md) The skills assessment for this week is focused on sketching, construction pla nes, organizing your model, sweeping along a profile, and making appropriate judgements.
 
 **Unresolved:** 
 
