@@ -4,6 +4,8 @@
 
 This tutorial has lots of overlaps with previous tutorials. It is a long one (35 min) which is why this will be a good representation of your skills development with Fusion 360. Part of what I am assessing here is how you adapt what Kevin does in this tutorial from 5 years ago when Fusion had different menus and icons.
 
+The CAD model for the Raspberry Pi is in a zipped file on the github [here]()
+
 **NOTE:** Because this is a more complex model than many we have done I will be asking you to turn in a number of different screen shots. Read the Deliverables carefully:)
 
 ### Task 1:
@@ -16,7 +18,7 @@ I feel like I shouldn't have to say this but I'm going to for clarity. There are
 
 ### Deliverable 1:
 
-For this screen shot I want all sketches visible, top and bottom bodies are transparent, and all sketches are turned on.
+For this screen shot I want all sketches visible, top and bottom bodies are transparent, and all sketches are turned on. Turn off the visibility of the Raspberry Pi
 
 ### Task 3:
 
