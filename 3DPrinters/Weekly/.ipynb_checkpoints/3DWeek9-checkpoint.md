@@ -1,16 +1,16 @@
-## 3D Printing: Week 8
+## 3D Printing: Week 9
 
-### Week 8:
+### Week 9:
 
 **Topic:** 
 
-This week we will be exploring the use of compliant structures in 3D printing
+This week we will be exploring the use of snap fitting structures in 3D printing. It would be ideal if we had Fusion files for all of these objects but for the time being that option is still under development:)
 
 **Outcomes:** 
 
-* Understand different compliant structure in 3D printing.
+* Understand different snap fit structures in 3D printing.
 
-* Print and assess an object with a compliant structure.
+* Print and assess a snap fitting.
 
 * Reflect on what model changes would make the print more successful.
 
@@ -18,4 +18,4 @@ This week we will be exploring the use of compliant structures in 3D printing
 
 **Lab: 3D Print** 
 
-Print one of the provided compliant models and assess it's function and success. [Lab 8: Guide](https://github.com/smithrockmaker/ENGR102/blob/main/3DPrinters/LabGuides/3DLab8.md)
+Print one of the provided snap fit models and assess it's function and success. [Lab 9: Guide](https://github.com/smithrockmaker/ENGR102/blob/main/3DPrinters/LabGuides/3DLab9.md)

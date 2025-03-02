@@ -141,15 +141,17 @@ We will discuss in class:)
 
 * Questions
 
-
-* Project Questions: Next week you will be getting your final project guidelines even though we have a fair amount of time until the end of the term.
-
 ### Project #1: Check in
 
 [Project #1 Guidelines:](https://github.com/smithrockmaker/ENGR102/blob/main/Projects/Project1/Project1Guidelines.md)
 
-This week you should be well on your way to building the Fusion model of your object for Project #1. How's that going? Questions? Sharing? Everybody still have their approval sheets?
+### Project #2: Introduction
 
+[Project #2 Guidelines:](https://github.com/smithrockmaker/ENGR102/blob/main/Projects/Project2/Project2Guidelines.md)
+
+### Compliant Structures:
+
+If time permits we will start discussing compliant structures and the lab during class. 
 
 ### When we get to Lab:
 

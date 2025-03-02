@@ -399,7 +399,7 @@ Print one of the provided compliant models and assess it's function and success.
 
 **Day 1:** Structured Problem Solving (A3 Process)
 
-**Day 2:** wintergarten as a model for why and how Fusion and 3D printing can be tools for tech development
+**Day 2:** wintergatan as a model for why and how Fusion and 3D printing can be tools for tech development
 
 **Outcomes:** 
 
@@ -407,7 +407,7 @@ Print one of the provided compliant models and assess it's function and success.
 
 * Apply the A3 method to ENGR 102 course design.
 
-* Articulate how CAD and 3D printing are integral to the technology development process illustrated by the wintergarten project.
+* Articulate how CAD and 3D printing are integral to the technology development process illustrated by the wintergatan project.
 
 **CAD Learning**
 
@@ -429,9 +429,9 @@ Print one of the provided compliant models and assess it's function and success.
 
 Doing all the stuff to make a latching container for a Raspberry Pi. This is the last one! [Fusion Skills 7:](https://github.com/smithrockmaker/ENGR102/blob/main/Fusion360/Skills/FusionSkills7.md) 
 
-**Lab: 3D Print**  
+**Lab: 3D Print** 
 
-Snap fittings explorations.
+Print one of the provided snap fit models and assess it's function and success. [Lab 9: Guide](https://github.com/smithrockmaker/ENGR102/blob/main/3DPrinters/LabGuides/3DLab9.md)
 
 **Unresolved:** 
 

@@ -397,17 +397,41 @@ Print one of the provided compliant models and assess it's function and success.
 
 **Class Topic(s):** 
 
-**Day 1:** Design Process Review
+**Day 1:** Structured Problem Solving (A3 Process)
 
-**Day 2:** 
+**Day 2:** wintergatan as a model for why and how Fusion and 3D printing can be tools for tech development
 
 **Outcomes:** 
 
-**CAD Learning** 
+* Be able to describe the A3 strutured problem solving method.
 
-**Lab: 3D Print**  
+* Apply the A3 method to ENGR 102 course design.
 
-Project #2: Time on task
+* Articulate how CAD and 3D printing are integral to the technology development process illustrated by the wintergatan project.
+
+**CAD Learning**
+
+**Sketch Constraints:**
+
+[Learn Fusion 360 in 30 Days: Day 17](https://www.youtube.com/watch?v=ddtjErtTgOo) 10:00
+
+**STL to Solid:**
+
+[Learn Fusion 360 in 30 Days: Day 18](https://www.youtube.com/watch?v=vr_zPVEsyjs) 8:48
+
+**Parameters and Joints**
+
+[Learn Fusion 360 in 30 Days: Day 19](https://www.youtube.com/watch?v=DJULiA1aTtM) 7:00
+
+**[Bruce's Notes:](https://github.com/smithrockmaker/ENGR102/blob/main/Fusion360/Weekly/CADActivity9.md)**
+
+**CAD Deliverables**
+
+Doing all the stuff to make a latching container for a Raspberry Pi. This is the last one! [Fusion Skills 7:](https://github.com/smithrockmaker/ENGR102/blob/main/Fusion360/Skills/FusionSkills7.md) 
+
+**Lab: 3D Print** 
+
+Print one of the provided snap fit models and assess it's function and success. [Lab 9: Guide](https://github.com/smithrockmaker/ENGR102/blob/main/3DPrinters/LabGuides/3DLab9.md)
 
 **Unresolved:** 
 

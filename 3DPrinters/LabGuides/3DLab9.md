@@ -8,21 +8,18 @@ For the lab you will be working with an .stl file from [articulated folder](http
 
 ### Activity 1: Choose Snap Fit Model
 
-Choose an .stl file from those in the compliant folder on the github (linked above). All of these models create objects with different common snap fit structures. This particular set of prints was created by [Kaje](https://www.printables.com/@kaje) from a report from an MIT class on making things in 2012. The important link is to whats called the Bayer Manual for Snap Fi
+Choose an .stl file from those in the compliant folder on the github (linked above). All of these models create objects with different common snap fit structures. This particular set of prints was created by [Kaje](https://www.printables.com/@kaje) from a report from an MIT class on making things in 2012. The important link is to whats called the [Bayer Manual for Snap Fit joints in plastic](https://github.com/smithrockmaker/ENGR102/blob/main/documents/snapfitDesign/Plastic_Snap_fit_design-1.pdf). Kaje's purposes seem similar to ours and his models all print in less than 30 min (sometimes need .30 mm layers). 
 
-**BRIMS:** One of the big challenges with these structures are the thin walls that form the compliant structures. Brims are generally NOT used in these circumstances BUT adhesion tends to be a problem for the small structures. Clean the print bed well and pay attention as the print starts and progresses. Be ready to stop and restart the print if needed.
+### Activity 2: Print the Model
 
-
-### Activity 2: Scale and Print the Model
-
-As usual....
+Nothing more to be said......
 
 ### Activity 3: Assess the Success of the Print
 
-When your group completes it's print **be sure to clean up** all the plastic bits at the printer before moving on to explore how the compliant object behaves. Does it bind in certain places? Does it break with wear? What is the range of motion?
+When your group completes it's print **be sure to clean up** all the plastic bits at the printer before moving on to explore how the snap fit object behaves. Is the connection positive or weak? What are the design parameters you could change to improve the positivity of the connection? Is it designed to come apart and be reused or is it a once and done connection?
 
 ### Activity 4: Reflection
 
-Compliant strutures tend to NOT scale well. What would you change if you had access to the Fusion model for the object to be able to print it successfully at a smaller scale? What have you learned about compliant structures from this lab?
+In your reflection on this lab be sure to include your answers to the questions asked above in Activity 3. A snap fit connector is part of your final Fusion Skills assessment. Think about what you learned in lab as you create that connection.
 
 Your reflection is turned in directly to Canvas.

@@ -2,6 +2,8 @@
 
 ### Latching case for Raspberry Pi
 
+[Latching Case for Raspberry Pi](https://www.youtube.com/watch?v=E0NVC8xhf3I&list=PLrZ2zKOtC_-B40OCy15MRRXtsBTjgVR44)
+
 This tutorial has lots of overlaps with previous tutorials. It is a long one (35 min) which is why this will be a good representation of your skills development with Fusion 360. Part of what I am assessing here is how you adapt what Kevin does in this tutorial from 5 years ago when Fusion had different menus and icons.
 
 The CAD (Fusion) model for the Raspberry Pi is in a zipped file on the github [here](https://github.com/smithrockmaker/ENGR102/blob/main/documents/FusionDocs/RaspberryPi.f3d.zip)

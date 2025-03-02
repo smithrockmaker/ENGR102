@@ -18,4 +18,4 @@ This week we will be exploring the use of snap fitting structures in 3D printing
 
 **Lab: 3D Print** 
 
-Print one of the provided compliant models and assess it's function and success. [Lab 9: Guide](https://github.com/smithrockmaker/ENGR102/blob/main/3DPrinters/LabGuides/3DLab9.md)
+Print one of the provided snap fit models and assess it's function and success. [Lab 9: Guide](https://github.com/smithrockmaker/ENGR102/blob/main/3DPrinters/LabGuides/3DLab9.md)
