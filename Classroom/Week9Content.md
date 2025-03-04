@@ -12,7 +12,7 @@ As always I feel compelled to validate the relevance of the topic each week to y
 
 Montana State University's Mechanical and Industrial Engineering Department (Duward Sobek II) received an NSF grant to explore the application of the Toyota Production System (including A3 Structured Problem solving) to the health care industry in Montana. [Here](https://www.montana.edu/dsobek/a3/ioc-grant/index.html) is a description of the grant. 
 
-We will use a modified A3 framework that integrates the system used by Montana State with other similar versions. Here is a [link to the template] I will hand out in class.
+We will use a modified A3 framework that integrates the system used by Montana State with other similar versions. Here is a [link to the template](https://github.com/smithrockmaker/ENGR102/blob/main/documents/LeanA3/A3Template.docx) I will hand out in class.
 
 **The Problem:**
 
