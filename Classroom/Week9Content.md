@@ -18,7 +18,7 @@ We will use a modified A3 framework that integrates the system used by Montana S
 
 Here is the process problem I would like you all to consider (in groups): How could ENGR 102 be structured to reduce the number of students who fall significantly behind during the course.
 
-[Data]
+<img src="../images/contentImages/lean/ENGR102Hist.png"/>
 
 It is important to note that one of the intended outcomes for this class is that each student recognizes their personal challenges to being 'self starting' and having 'effective time management skills'. Both of these are standard expectations for successful engineers (and other employees) across most industries. In addition many community college students are pursuing educational opportunities while working and/or having family responsibilities. The ability to manage time conflicts between these different responsibilities is important.
 
