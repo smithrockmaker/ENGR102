@@ -1,49 +1,42 @@
 ## Kevin Kennedy
 
-### Notes from Day 17,18,19
+### Notes from Day 20,21,23 -- LAST WEEK!!
 
+[Learn Fusion 360 in 30 Days: Day 20](https://www.youtube.com/watch?v=fYDJLdOV_zE&list=PLrZ2zKOtC_-C4rWfapgngoe9o2-ng8ZBr&index=21) 9:20
 
-[Learn Fusion 360 in 30 Days: Day 17](https://www.youtube.com/watch?v=YsXaCmKEV-g) 10:00
+**Hinged Box (3D print):**
 
-**Sketch Constraints:**
+This one is one of those fun ones where everything seems to work pretty much like demonstrated. 
 
-The one real issue for me in this was accessing the Fusion file that Kevin provided. The issue is that the college's email refuses to download the link due to it's usual anxieties about network security. I have zipped the file up and made it [available on the github](https://github.com/smithrockmaker/ENGR102/blob/main/documents/FusionDocs/SketchConstraints.f3d.zip). Because it is 'zipped' the college is usually less freaked out. Hopefully it will remain readable as Fusion updates itself.
+Nice to reuse the project command and to think about where we create new bodies within components.
 
-This is a great review of sketch constraints. We've used many of these already but it's helpful to see them all strung together.
+We might have imagined a cylindrical hinge pin but the conical one makes lots of sense as well. 
 
-The curvature constraint is one I hadn't used before. I love the cool curvature visualization. I suspect it has meaning that I don't yet appreciate.
-
-Helpful to know how to display all the various sketch constraints associated with particular features. I can see using that from time to time.
-
-20 min for me
-
-[Learn Fusion 360 in 30 Days: Day 18]() 8:48
-
-**STL to Solid:**
-
-The sticky note stencil, the hinged box, and the hatchet .stl files are in the github documents folder.
-
-[stencil](). 
-[box]()
-[hatchet]()
-
-This is an interesting tutorial. The first part is pretty straight forward with the sticky note stencil. Helpful introduction to how this conversion process goes. 
-
-Once Kevin starts talking about the hinged box and the hatchet there is are a lot of steps he glosses over (elides) in the video. It was good practice to look at his parametric timeline and see what he had done and reproduce it.
-
-I'm not sure if I will use this set of techniques much in my projects but it is definitely good to know that they are there and how to do this.
-
-40 min for me mostly due to fussing with the hatchet:)
-
-[Learn Fusion 360 in 30 Days: Day 19]() 7:00
-
-**Parameters and Joints**
-
-Cool to learn about user parameters. Seems like a better workflow than constantly going back and changing sketch dimensions. 
-
-The only real issue during this video was getting the box top aligned correctly with the bottom. For Kevin he selected Joint origins that were on diagonally opposite corners. For whatever reason I had to select corners on the same edge and flip things to get the top to align with the bottom. If you don't get things to work the way Kevin did just select a different origin for the second object and see what happens. Not sure if there are preferences that are leading to these differences or Fusion version differences.
-
-Another useful note for me was getting a little more clear on managing the visibility of bodies while I'm working. If you activate the component level in the browser that all bodies in the component are shown (if each body is set to visible). At first I was activating individual bodies which makes the other body transparent. Just depends what you want to see. Helpful to understand this workflow better.
+Note that he is printing this box as a single object laying on the build plate as you see it in the Fusion model It would be interesting to see how the hinges print.
 
 20 min for me
+
+[Learn Fusion 360 in 30 Days: Day 21](https://www.youtube.com/watch?v=smbb4rJPBGg&list=PLrZ2zKOtC_-C4rWfapgngoe9o2-ng8ZBr&index=23) 6:40
+
+**3D Printable Mold:**
+
+This one is interesting. I'm not sure how effective this sort of mold might be with PLA that we print in lab but perhaps with suitable release agents it would work OK
+
+General process of tutorial went smoothly. I did have one of my usual problems with the nesting of bodies and sketches. It is apparent that I need to think a little more clearly about the distinction between bodies and components. When do I use each in building a model. I suspect some of this will get more clear in the next tutorial about assemblies.
+
+Also 20 min for me
+
+### NOTE: Skipping to Day 23!!
+
+[Learn Fusion 360 in 30 Days: Day 23](https://www.youtube.com/watch?v=OsdL0VoaGl0&list=PLrZ2zKOtC_-C4rWfapgngoe9o2-ng8ZBr&index=24) 12:00
+
+**Assemblies:**
+
+Nice that this exercise is built around a model that comes with the Fusion install:)
+
+The 'Ground' command has been changed to 'Pin' in newer versions of Fusion. Who'd a thunk:)
+
+The usual caveats about minimums and maximums that often seem to need to be reversed in my version of Fusion. 
+
+60 min for me - long but useful!!
 

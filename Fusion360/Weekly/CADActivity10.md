@@ -2,7 +2,6 @@
 
 ### Notes from Day 20,21,23 -- LAST WEEK!!
 
-
 [Learn Fusion 360 in 30 Days: Day 20](https://www.youtube.com/watch?v=fYDJLdOV_zE&list=PLrZ2zKOtC_-C4rWfapgngoe9o2-ng8ZBr&index=21) 9:20
 
 **Hinged Box (3D print):**
@@ -30,6 +29,8 @@ Also 20 min for me
 ### NOTE: Skipping to Day 23!!
 
 [Learn Fusion 360 in 30 Days: Day 23](https://www.youtube.com/watch?v=OsdL0VoaGl0&list=PLrZ2zKOtC_-C4rWfapgngoe9o2-ng8ZBr&index=24) 12:00
+
+**Assemblies:**
 
 Nice that this exercise is built around a model that comes with the Fusion install:)
 

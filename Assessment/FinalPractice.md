@@ -44,4 +44,4 @@ Assuming you extruded the entire shape upwards as your first step in Fusion desc
 
 **Deliverable(s): 7** 
 
-**Fusion 360:** When creating a Fusion model of the handle which parts of the handle would you create by revolving and which parts by extruding? Describe at least 4 sketches that you would do, and on which plane, to create a model of this handle. Identify at least 3 edges where the fillet tool was used in this design -- make a clear sketch
+**Fusion 360:** When creating a Fusion model of the handle which parts of the handle would you create by revolving and which parts by extruding? Describe at least 4 sketches that you would do, and on which plane, to create a model of this handle. Identify at least 3 edges where the fillet tool was used in this design -- make a clear sketch to communicate your choices and be careful:)

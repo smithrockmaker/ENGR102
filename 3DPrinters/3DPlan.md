@@ -199,23 +199,4 @@ Print one of the provided compliant models and assess it's function and success.
 
 **Topic:** 
 
-**Outcomes:** 
-
-**Class:** 
-
-**Lab:** 
-
-**Unresolved:** 
-
-### Week 10*:
-
-**Topic:** 
-
-**Outcomes:** 
-
-**Class:** 
-
-**Lab:** 
-
-**Unresolved:** 
-
+Lots of printing to catch up on from projects and past labs depending on where you are. This week is set aside a open lab time with access to the printers.
